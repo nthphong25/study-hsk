@@ -1,0 +1,4802 @@
+[
+  {
+    "word": "爱情",
+    "pronunciation": "ài qíng [ái tình]",
+    "meaning": "tình yêu",
+    "example": "他们的爱情很美好。",
+    "example_pronunciation": "Tāmen de àiqíng hěn měihǎo.",
+    "example_translation": "Tình yêu của họ rất đẹp."
+  },
+  {
+    "word": "安排",
+    "pronunciation": "ān pái [an bài]",
+    "meaning": "sắp xếp",
+    "example": "我已经安排好了行程。",
+    "example_pronunciation": "Wǒ yǐjīng ānpái hǎo le xíngchéng.",
+    "example_translation": "Tôi đã sắp xếp xong hành trình."
+  },
+  {
+    "word": "安全",
+    "pronunciation": "ān quán [an toàn]",
+    "meaning": "an toàn",
+    "example": "这个地方很安全。",
+    "example_pronunciation": "Zhège dìfāng hěn ānquán.",
+    "example_translation": "Nơi này rất an toàn."
+  },
+  {
+    "word": "按时",
+    "pronunciation": "àn shí",
+    "meaning": "đúng hạn",
+    "example": "我们必须按时完成任务。",
+    "example_pronunciation": "Wǒmen bìxū ànshí wánchéng rènwù.",
+    "example_translation": "Chúng ta phải hoàn thành nhiệm vụ đúng giờ."
+  },
+  {
+    "word": "按照",
+    "pronunciation": "àn zhào",
+    "meaning": "dựa vào, theo",
+    "example": "请按照说明操作。",
+    "example_pronunciation": "Qǐng ànzhào shuōmíng cāozuò.",
+    "example_translation": "Vui lòng làm theo hướng dẫn."
+  },
+  {
+    "word": "百分之",
+    "pronunciation": "bǎi fēn zhī",
+    "meaning": "%",
+    "example": "他的考试成绩是百分之九十。",
+    "example_pronunciation": "Tā de kǎoshì chéngjī shì bǎifēn zhī jiǔshí.",
+    "example_translation": "Điểm thi của anh ấy là 90%."
+  },
+  {
+    "word": "棒",
+    "pronunciation": "bàng",
+    "meaning": "cây gậy/ giỏi, tốt",
+    "example": "你真棒！",
+    "example_pronunciation": "Nǐ zhēn bàng!",
+    "example_translation": "Bạn thật tuyệt!"
+  },
+  {
+    "word": "包子",
+    "pronunciation": "bāo zi",
+    "meaning": "bánh bao",
+    "example": "我喜欢吃包子。",
+    "example_pronunciation": "Wǒ xǐhuān chī bāozi.",
+    "example_translation": "Tôi thích ăn bánh bao."
+  },
+  {
+    "word": "保护",
+    "pronunciation": "bǎo hù",
+    "meaning": "che chở, bảo vệ",
+    "example": "我们要保护环境。",
+    "example_pronunciation": "Wǒmen yào bǎohù huánjìng.",
+    "example_translation": "Chúng ta cần bảo vệ môi trường."
+  },
+  {
+    "word": "保证",
+    "pronunciation": "bǎo zhèng",
+    "meaning": "đảm bảo, cam đoan",
+    "example": "我保证完成任务。",
+    "example_pronunciation": "Wǒ bǎozhèng wánchéng rènwù.",
+    "example_translation": "Tôi cam đoan hoàn thành nhiệm vụ."
+  },
+  {
+    "word": "报名",
+    "pronunciation": "bào míng",
+    "meaning": "đăng kí",
+    "example": "我报名参加了比赛。",
+    "example_pronunciation": "Wǒ bàomíng cānjiā le bǐsài.",
+    "example_translation": "Tôi đã đăng ký tham gia cuộc thi."
+  },
+  {
+    "word": "抱",
+    "pronunciation": "bào",
+    "meaning": "ôm",
+    "example": "他抱了我。",
+    "example_pronunciation": "Tā bào le wǒ.",
+    "example_translation": "Anh ấy đã ôm tôi."
+  },
+  {
+    "word": "抱歉",
+    "pronunciation": "bào qiàn",
+    "meaning": "xin lỗi",
+    "example": "很抱歉，我来晚了。",
+    "example_pronunciation": "Hěn bàoqiàn, wǒ lái wǎn le.",
+    "example_translation": "Xin lỗi, tôi đến muộn."
+  },
+  {
+    "word": "倍",
+    "pronunciation": "bèi",
+    "meaning": "lần",
+    "example": "价格翻了两倍。",
+    "example_pronunciation": "Jiàgé fān le liǎng bèi.",
+    "example_translation": "Giá cả tăng gấp đôi."
+  },
+  {
+    "word": "本来",
+    "pronunciation": "běn lái",
+    "meaning": "vốn có",
+    "example": "本来我不想去的。",
+    "example_pronunciation": "Běnlái wǒ bù xiǎng qù de.",
+    "example_translation": "Ban đầu tôi không muốn đi."
+  },
+  {
+    "word": "笨",
+    "pronunciation": "bèn",
+    "meaning": "ngốc nghếch",
+    "example": "他有点笨，但很努力。",
+    "example_pronunciation": "Tā yǒudiǎn bèn, dàn hěn nǔlì.",
+    "example_translation": "Anh ấy hơi ngốc, nhưng rất nỗ lực."
+  },
+  {
+    "word": "比如",
+    "pronunciation": "bǐ rú",
+    "meaning": "ví dụ như",
+    "example": "比如说，苹果和香蕉。",
+    "example_pronunciation": "Bǐrú shuō, píngguǒ hé xiāngjiāo.",
+    "example_translation": "Ví dụ như, táo và chuối."
+  },
+  {
+    "word": "毕业",
+    "pronunciation": "bì yè",
+    "meaning": "tốt nghiệp",
+    "example": "他今年大学毕业了。",
+    "example_pronunciation": "Tā jīnnián dàxué bìyè le.",
+    "example_translation": "Năm nay anh ấy tốt nghiệp đại học."
+  },
+  {
+    "word": "遍",
+    "pronunciation": "biàn",
+    "meaning": "lần, lượt",
+    "example": "这本书我看三遍了。",
+    "example_pronunciation": "Zhè běn shū wǒ kàn sān biàn le.",
+    "example_translation": "Tôi đã đọc cuốn sách này ba lần."
+  },
+  {
+    "word": "标准",
+    "pronunciation": "biāo zhǔn",
+    "meaning": "tiêu chuẩn",
+    "example": "他的中文发音很标准。",
+    "example_pronunciation": "Tā de Zhōngwén fāyīn hěn biāozhǔn.",
+    "example_translation": "Phát âm tiếng Trung của anh ấy rất chuẩn."
+  },
+  {
+    "word": "表格",
+    "pronunciation": "biǎo gé",
+    "meaning": "bảng biểu",
+    "example": "请填写这张表格。",
+    "example_pronunciation": "Qǐng tiánxiě zhè zhāng biǎogé.",
+    "example_translation": "Vui lòng điền vào mẫu đơn này."
+  },
+  {
+    "word": "表示",
+    "pronunciation": "biǎo shì",
+    "meaning": "biểu thị, cho thấy",
+    "example": "他表示同意。",
+    "example_pronunciation": "Tā biǎoshì tóngyì.",
+    "example_translation": "Anh ấy biểu thị đồng ý."
+  },
+  {
+    "word": "表演",
+    "pronunciation": "biǎo yǎn",
+    "meaning": "biểu diễn",
+    "example": "她的表演很精彩。",
+    "example_pronunciation": "Tā de biǎoyǎn hěn jīngcǎi.",
+    "example_translation": "Màn biểu diễn của cô ấy rất xuất sắc."
+  },
+  {
+    "word": "表扬",
+    "pronunciation": "biǎo yáng",
+    "meaning": "tuyên dương",
+    "example": "老师表扬了他。",
+    "example_pronunciation": "Lǎoshī biǎoyáng le tā.",
+    "example_translation": "Thầy giáo khen ngợi anh ấy."
+  },
+  {
+    "word": "饼干",
+    "pronunciation": "bǐng gān",
+    "meaning": "bánh",
+    "example": "我喜欢吃饼干。",
+    "example_pronunciation": "Wǒ xǐhuān chī bǐnggān.",
+    "example_translation": "Tôi thích ăn bánh quy."
+  },
+  {
+    "word": "并且",
+    "pronunciation": "bìng qiě",
+    "meaning": "đồng thời",
+    "example": "她聪明并且努力。",
+    "example_pronunciation": "Tā cōngmíng bìngqiě nǔlì.",
+    "example_translation": "Cô ấy thông minh và chăm chỉ."
+  },
+  {
+    "word": "博士",
+    "pronunciation": "bó shì",
+    "meaning": "tiến sĩ",
+    "example": "他是一个博士。",
+    "example_pronunciation": "Tā shì yīgè bóshì.",
+    "example_translation": "Anh ấy là một tiến sĩ."
+  },
+  {
+    "word": "不得不",
+    "pronunciation": "bù dé bù",
+    "meaning": "đành",
+    "example": "我不得不去工作。",
+    "example_pronunciation": "Wǒ bùdébù qù gōngzuò.",
+    "example_translation": "Tôi không thể không đi làm."
+  },
+  {
+    "word": "不管",
+    "pronunciation": "bù guǎn",
+    "meaning": "bất kể",
+    "example": "不管天气如何，我都会去。",
+    "example_pronunciation": "Bùguǎn tiānqì rúhé, wǒ dōu huì qù.",
+    "example_translation": "Bất kể thời tiết thế nào, tôi cũng sẽ đi."
+  },
+  {
+    "word": "不过",
+    "pronunciation": "bù guò",
+    "meaning": "nhưng, có điều",
+    "example": "不过，这样更好。",
+    "example_pronunciation": "Bùguò, zhèyàng gèng hǎo.",
+    "example_translation": "có điều, như vậy tốt hơn."
+  },
+  {
+    "word": "不仅",
+    "pronunciation": "bù jǐn",
+    "meaning": "không những",
+    "example": "他不仅聪明，而且很努力。",
+    "example_pronunciation": "Tā bùjǐn cōngmíng, érqiě hěn nǔlì.",
+    "example_translation": "Anh ấy không chỉ thông minh mà còn rất chăm chỉ."
+  },
+  {
+    "word": "部分",
+    "pronunciation": "bù fèn",
+    "meaning": "bộ phận, phần",
+    "example": "这只是问题的一部分。",
+    "example_pronunciation": "Zhè zhǐshì wèntí de yī bùfèn.",
+    "example_translation": "Đây chỉ là một phần của vấn đề."
+  },
+  {
+    "word": "擦",
+    "pronunciation": "cā",
+    "meaning": "lau",
+    "example": "请把桌子擦干净。",
+    "example_pronunciation": "Qǐng bǎ zhuōzi cā gānjìng.",
+    "example_translation": "Hãy lau sạch bàn."
+  },
+  {
+    "word": "猜",
+    "pronunciation": "cāi",
+    "meaning": "đoán",
+    "example": "我猜他不会来。",
+    "example_pronunciation": "Wǒ cāi tā bù huì lái.",
+    "example_translation": "Tôi đoán anh ấy sẽ không đến."
+  },
+  {
+    "word": "材料",
+    "pronunciation": "cái liào",
+    "meaning": "tài liệu",
+    "example": "请准备好材料。",
+    "example_pronunciation": "Qǐng zhǔnbèi hǎo cáiliào.",
+    "example_translation": "Hãy chuẩn bị sẵn tài liệu."
+  },
+  {
+    "word": "参观",
+    "pronunciation": "cān guān",
+    "meaning": "tham quan",
+    "example": "我们要去参观博物馆。",
+    "example_pronunciation": "Wǒmen yào qù cānguān bówùguǎn.",
+    "example_translation": "Chúng ta sẽ đi tham quan bảo tàng."
+  },
+  {
+    "word": "餐厅",
+    "pronunciation": "cān tīng",
+    "meaning": "căng tin, nhà ăn",
+    "example": "我们在餐厅吃饭。",
+    "example_pronunciation": "Wǒmen zài cāntīng chīfàn.",
+    "example_translation": "Chúng tôi ăn ở nhà hàng."
+  },
+  {
+    "word": "厕所",
+    "pronunciation": "cè suǒ",
+    "meaning": "phòng vệ sinh",
+    "example": "厕所在那边。",
+    "example_pronunciation": "Cèsuǒ zài nà biān.",
+    "example_translation": "Nhà vệ sinh ở đằng kia."
+  },
+  {
+    "word": "差不多",
+    "pronunciation": "chà bù duō",
+    "meaning": "gần như",
+    "example": "我们差不多同岁。",
+    "example_pronunciation": "Wǒmen chàbùduō tóng suì.",
+    "example_translation": "Chúng ta gần bằng tuổi nhau."
+  },
+  {
+    "word": "长城",
+    "pronunciation": "cháng chéng",
+    "meaning": "Trường Thành",
+    "example": "我们参观了长城。",
+    "example_pronunciation": "Wǒmen cānguān le Chángchéng.",
+    "example_translation": "Chúng tôi đã tham quan Vạn Lý Trường Thành."
+  },
+  {
+    "word": "长江",
+    "pronunciation": "cháng jiāng",
+    "meaning": "Trường Giang",
+    "example": "长江是中国最长的河流。",
+    "example_pronunciation": "Chángjiāng shì Zhōngguó zuì cháng de héliú.",
+    "example_translation": "Trường Giang là con sông dài nhất Trung Quốc."
+  },
+  {
+    "word": "尝",
+    "pronunciation": "cháng",
+    "meaning": "nếm thử",
+    "example": "你尝过这道菜吗？",
+    "example_pronunciation": "Nǐ cháng guò zhè dào cài ma?",
+    "example_translation": "Bạn đã từng thử món này chưa?"
+  },
+  {
+    "word": "场",
+    "pronunciation": "chǎng",
+    "meaning": "trận, suất",
+    "example": "这场比赛很重要。",
+    "example_pronunciation": "Zhè chǎng bǐsài hěn zhòngyào.",
+    "example_translation": "Trận đấu này rất quan trọng."
+  },
+  {
+    "word": "超过",
+    "pronunciation": "chāo guò",
+    "meaning": "vượt trên",
+    "example": "他超过了我。",
+    "example_pronunciation": "Tā chāoguò le wǒ.",
+    "example_translation": "Anh ấy vượt qua tôi."
+  },
+  {
+    "word": "成功",
+    "pronunciation": "chéng gōng",
+    "meaning": "thành công",
+    "example": "她终于成功了。",
+    "example_pronunciation": "Tā zhōngyú chénggōng le.",
+    "example_translation": "Cuối cùng cô ấy đã thành công."
+  },
+  {
+    "word": "成为",
+    "pronunciation": "chéng wéi",
+    "meaning": "trở thành",
+    "example": "他想成为医生。",
+    "example_pronunciation": "Tā xiǎng chéngwéi yīshēng.",
+    "example_translation": "Anh ấy muốn trở thành bác sĩ."
+  },
+  {
+    "word": "诚实",
+    "pronunciation": "chéng shí",
+    "meaning": "trung thực",
+    "example": "他是个诚实的人。",
+    "example_pronunciation": "Tā shì gè chéngshí de rén.",
+    "example_translation": "Anh ấy là người thật thà."
+  },
+  {
+    "word": "乘坐",
+    "pronunciation": "chéng zuò",
+    "meaning": "ngồi xe",
+    "example": "我们乘坐飞机去北京。",
+    "example_pronunciation": "Wǒmen chéngzuò fēijī qù Běijīng.",
+    "example_translation": "Chúng tôi đi máy bay đến Bắc Kinh."
+  },
+  {
+    "word": "吃惊",
+    "pronunciation": "chī jīng",
+    "meaning": "ngạc nhiên",
+    "example": "她的消息让我很吃惊。",
+    "example_pronunciation": "Tā de xiāoxi ràng wǒ hěn chījīng.",
+    "example_translation": "Tin tức của cô ấy làm tôi rất ngạc nhiên."
+  },
+  {
+    "word": "重新",
+    "pronunciation": "chóng xīn",
+    "meaning": "làm lại",
+    "example": "我重新开始学习中文。",
+    "example_pronunciation": "Wǒ chóngxīn kāishǐ xuéxí Zhōngwén.",
+    "example_translation": "Tôi bắt đầu học lại tiếng Trung."
+  },
+  {
+    "word": "抽烟",
+    "pronunciation": "chōu yān",
+    "meaning": "hút thuốc",
+    "example": "请不要在这里抽烟。",
+    "example_pronunciation": "Qǐng bùyào zài zhèlǐ chōuyān.",
+    "example_translation": "Vui lòng không hút thuốc ở đây."
+  },
+  {
+    "word": "出差",
+    "pronunciation": "chū chāi",
+    "meaning": "đi công tác",
+    "example": "他经常出差。",
+    "example_pronunciation": "Tā jīngcháng chūchāi.",
+    "example_translation": "Anh ấy thường đi công tác."
+  },
+  {
+    "word": "出发",
+    "pronunciation": "chū fā",
+    "meaning": "xuất phát",
+    "example": "我们早上七点出发。",
+    "example_pronunciation": "Wǒmen zǎoshang qī diǎn chūfā.",
+    "example_translation": "Chúng tôi khởi hành lúc 7 giờ sáng."
+  },
+  {
+    "word": "出生",
+    "pronunciation": "chū shēng",
+    "meaning": "ra đời",
+    "example": "我在越南出生。",
+    "example_pronunciation": "Wǒ zài Yuènán chūshēng.",
+    "example_translation": "Tôi sinh ra ở Việt Nam."
+  },
+  {
+    "word": "出现",
+    "pronunciation": "chū xiàn",
+    "meaning": "xuất hiện",
+    "example": "问题突然出现了。",
+    "example_pronunciation": "Wèntí tūrán chūxiàn le.",
+    "example_translation": "Vấn đề đột nhiên xuất hiện."
+  },
+  {
+    "word": "厨房",
+    "pronunciation": "chú fáng",
+    "meaning": "phòng bếp",
+    "example": "她在厨房做饭。",
+    "example_pronunciation": "Tā zài chúfáng zuòfàn.",
+    "example_translation": "Cô ấy nấu ăn trong bếp."
+  },
+  {
+    "word": "传真",
+    "pronunciation": "chuán zhēn",
+    "meaning": "fax, bản fax",
+    "example": "请发送传真。",
+    "example_pronunciation": "Qǐng fāsòng chuánzhēn.",
+    "example_translation": "Vui lòng gửi fax."
+  },
+  {
+    "word": "窗户",
+    "pronunciation": "chuāng hù",
+    "meaning": "cửa sổ",
+    "example": "窗户开着。",
+    "example_pronunciation": "Chuānghu kāizhe.",
+    "example_translation": "Cửa sổ đang mở."
+  },
+  {
+    "word": "词语",
+    "pronunciation": "cí yǔ",
+    "meaning": "từ ngữ",
+    "example": "请学习这些词语。",
+    "example_pronunciation": "Qǐng xuéxí zhèxiē cíyǔ.",
+    "example_translation": "Vui lòng học những từ này."
+  },
+  {
+    "word": "从来",
+    "pronunciation": "cóng lái",
+    "meaning": "từ trước đến nay",
+    "example": "我从来没见过他。",
+    "example_pronunciation": "Wǒ cónglái méi jiànguò tā.",
+    "example_translation": "Tôi chưa bao giờ gặp anh ấy."
+  },
+  {
+    "word": "粗心",
+    "pronunciation": "cū xīn",
+    "meaning": "thô lỗ, cẩu thả",
+    "example": "他做事很粗心。",
+    "example_pronunciation": "Tā zuòshì hěn cūxīn.",
+    "example_translation": "Anh ấy làm việc rất cẩu thả."
+  },
+  {
+    "word": "存",
+    "pronunciation": "cún",
+    "meaning": "giữ, tiết kiệm, tồn",
+    "example": "我在银行存了钱。",
+    "example_pronunciation": "Wǒ zài yínháng cún le qián.",
+    "example_translation": "Tôi gửi tiền vào ngân hàng."
+  },
+  {
+    "word": "错误",
+    "pronunciation": "cuò wù",
+    "meaning": "sai lầm",
+    "example": "这是我们的错误。",
+    "example_pronunciation": "Zhè shì wǒmen de cuòwù.",
+    "example_translation": "Đây là lỗi của chúng tôi."
+  },
+  {
+    "word": "答案",
+    "pronunciation": "dá àn",
+    "meaning": "đáp án",
+    "example": "这是正确的答案。",
+    "example_pronunciation": "Zhè shì zhèngquè de dá'àn.",
+    "example_translation": "Đây là đáp án đúng."
+  },
+  {
+    "word": "打扮",
+    "pronunciation": "dǎ bàn",
+    "meaning": "trau chuốt, trang điểm",
+    "example": "她打扮得很漂亮。",
+    "example_pronunciation": "Tā dǎbàn de hěn piàoliang.",
+    "example_translation": "Cô ấy trang điểm rất đẹp."
+  },
+  {
+    "word": "打扰",
+    "pronunciation": "dǎ rǎo",
+    "meaning": "làm phiền",
+    "example": "对不起，打扰一下。",
+    "example_pronunciation": "Duìbùqǐ, dǎrǎo yīxià.",
+    "example_translation": "Xin lỗi, làm phiền một chút."
+  },
+  {
+    "word": "打印",
+    "pronunciation": "dǎ yìn",
+    "meaning": "in ấn",
+    "example": "请帮我打印这份文件。",
+    "example_pronunciation": "Qǐng bāng wǒ dǎyìn zhè fèn wénjiàn.",
+    "example_translation": "Vui lòng in giúp tôi tài liệu này."
+  },
+  {
+    "word": "打招呼",
+    "pronunciation": "dǎ zhāo hū",
+    "meaning": "chào hỏi",
+    "example": "他向我打招呼。",
+    "example_pronunciation": "Tā xiàng wǒ dǎzhāohū.",
+    "example_translation": "Anh ấy chào tôi."
+  },
+  {
+    "word": "打折",
+    "pronunciation": "dǎ zhé",
+    "meaning": "giảm giá",
+    "example": "商店正在打折。",
+    "example_pronunciation": "Shāngdiàn zhèngzài dǎzhé.",
+    "example_translation": "Cửa hàng đang giảm giá."
+  },
+  {
+    "word": "打针",
+    "pronunciation": "dǎ zhēn",
+    "meaning": "tiêm",
+    "example": "我不喜欢打针。",
+    "example_pronunciation": "Wǒ bù xǐhuān dǎzhēn.",
+    "example_translation": "Tôi không thích tiêm."
+  },
+  {
+    "word": "大概",
+    "pronunciation": "dà gài",
+    "meaning": "khoảng",
+    "example": "他大概十岁。",
+    "example_pronunciation": "Tā dàgài shí suì.",
+    "example_translation": "Cậu ấy khoảng mười tuổi."
+  },
+  {
+    "word": "大使馆",
+    "pronunciation": "dà shǐ guǎn",
+    "meaning": "đại sứ quán",
+    "example": "我们去了大使馆。",
+    "example_pronunciation": "Wǒmen qùle dàshǐguǎn.",
+    "example_translation": "Chúng tôi đã đến đại sứ quán."
+  },
+  {
+    "word": "大约",
+    "pronunciation": "dà yuē",
+    "meaning": "khoảng",
+    "example": "他们大约八点到。",
+    "example_pronunciation": "Tāmen dàyuē bā diǎn dào.",
+    "example_translation": "Họ đến khoảng tám giờ."
+  },
+  {
+    "word": "大夫",
+    "pronunciation": "dài fū",
+    "meaning": "bác sĩ, đại phu",
+    "example": "张大夫在医院工作。",
+    "example_pronunciation": "Zhāng dàifū zài yīyuàn gōngzuò.",
+    "example_translation": "Bác sĩ Trương làm việc ở bệnh viện."
+  },
+  {
+    "word": "戴",
+    "pronunciation": "dài",
+    "meaning": "đeo",
+    "example": "她戴着一顶帽子。",
+    "example_pronunciation": "Tā dàizhe yī dǐng màozi.",
+    "example_translation": "Cô ấy đội một chiếc mũ."
+  },
+  {
+    "word": "当",
+    "pronunciation": "dāng",
+    "meaning": "làm",
+    "example": "我当老师。",
+    "example_pronunciation": "Wǒ dāng lǎoshī.",
+    "example_translation": "Tôi làm giáo viên."
+  },
+  {
+    "word": "当时",
+    "pronunciation": "dāng shí",
+    "meaning": "lúc đó",
+    "example": "当时我在学校。",
+    "example_pronunciation": "Dāngshí wǒ zài xuéxiào.",
+    "example_translation": "Lúc đó tôi đang ở trường."
+  },
+  {
+    "word": "刀",
+    "pronunciation": "dāo",
+    "meaning": "cái dao",
+    "example": "请小心那把刀。",
+    "example_pronunciation": "Qǐng xiǎoxīn nà bǎ dāo.",
+    "example_translation": "Hãy cẩn thận với con dao đó."
+  },
+  {
+    "word": "导游",
+    "pronunciation": "dǎo yóu",
+    "meaning": "hướng dẫn viên du lịch",
+    "example": "导游带我们参观了城市。",
+    "example_pronunciation": "Dǎoyóu dài wǒmen cānguān le chéngshì.",
+    "example_translation": "Hướng dẫn viên đã dẫn chúng tôi tham quan thành phố."
+  },
+  {
+    "word": "到处",
+    "pronunciation": "dào chù",
+    "meaning": "khắp nơi",
+    "example": "我们到处找你。",
+    "example_pronunciation": "Wǒmen dàochù zhǎo nǐ.",
+    "example_translation": "Chúng tôi tìm bạn khắp nơi."
+  },
+  {
+    "word": "到底",
+    "pronunciation": "dào dǐ",
+    "meaning": "cuối cùng",
+    "example": "你到底在做什么？",
+    "example_pronunciation": "Nǐ dàodǐ zài zuò shénme?",
+    "example_translation": "Rốt cuộc bạn đang làm gì vậy?"
+  },
+  {
+    "word": "倒",
+    "pronunciation": "dǎo",
+    "meaning": "đổ, ngã",
+    "example": "他把茶倒在了桌子上。",
+    "example_pronunciation": "Tā bǎ chá dào zài le zhuōzi shàng.",
+    "example_translation": "Anh ấy đổ trà lên bàn."
+  },
+  {
+    "word": "道歉",
+    "pronunciation": "dào qiàn",
+    "meaning": "xin lỗi",
+    "example": "我向你道歉。",
+    "example_pronunciation": "Wǒ xiàng nǐ dàoqiàn.",
+    "example_translation": "Tôi xin lỗi bạn."
+  },
+  {
+    "word": "得意",
+    "pronunciation": "dé yì",
+    "meaning": "đắc ý",
+    "example": "他很得意自己的成绩。",
+    "example_pronunciation": "Tā hěn déyì zìjǐ de chéngjī.",
+    "example_translation": "Anh ấy rất tự hào về thành tích của mình."
+  },
+  {
+    "word": "得（助动词）",
+    "pronunciation": "de （ zhù dòng cí ）",
+    "meaning": "trợ từ",
+    "example": "她学汉语学得很好。",
+    "example_pronunciation": "Tā xué Hànyǔ xué de hěn hǎo",
+    "example_translation": "Cô ấy học tiếng Hán rất giỏi."
+  },
+  {
+    "word": "登机牌",
+    "pronunciation": "dēng jī pái",
+    "meaning": "thẻ lên tàu",
+    "example": "请拿好你的登机牌。",
+    "example_pronunciation": "Qǐng ná hǎo nǐ de dēngjīpái.",
+    "example_translation": "Vui lòng giữ kỹ thẻ lên máy bay của bạn."
+  },
+  {
+    "word": "等（助词）",
+    "pronunciation": "děng （ zhù cí ）",
+    "meaning": "vân vân",
+    "example": "我喜欢听音乐、看电影等等。",
+    "example_pronunciation": "Wǒ xǐhuān tīng yīnyuè, kàn diànyǐng, děng děng.",
+    "example_translation": "Tôi thích nghe nhạc, xem phim,vv.."
+  },
+  {
+    "word": "低",
+    "pronunciation": "dī",
+    "meaning": "thấp",
+    "example": "一场大雨过后，地势低的地方积满了雨水。",
+    "example_pronunciation": "Yī chǎng dàyǔ guòhòu, dìshì dī dì dìfāng jī mǎnle yǔshuǐ.",
+    "example_translation": "Sau 1 trận mưa lớn, nơi địa thế thấp tích đầy nước mưa."
+  },
+  {
+    "word": "底",
+    "pronunciation": "dǐ",
+    "meaning": "đáy",
+    "example": "快到年底时谁都忙起来。",
+    "example_pronunciation": "Kuài dào niándǐ shí shéi dōu máng qǐlái.",
+    "example_translation": "Lúc sắp đến cuối năm ai cũng trở nên bận rộn."
+  },
+  {
+    "word": "地点",
+    "pronunciation": "dì diǎn",
+    "meaning": "địa điểm",
+    "example": "会议地点在这里。",
+    "example_pronunciation": "Huìyì dìdiǎn zài zhèlǐ.",
+    "example_translation": "Địa điểm cuộc họp ở đây."
+  },
+  {
+    "word": "地球",
+    "pronunciation": "dì qiú",
+    "meaning": "địa cầu",
+    "example": "地球是圆的。",
+    "example_pronunciation": "Dìqiú shì yuán de.",
+    "example_translation": "Trái đất là hình tròn."
+  },
+  {
+    "word": "地址",
+    "pronunciation": "dì zhǐ",
+    "meaning": "địa chỉ",
+    "example": "请告诉我你的地址。",
+    "example_pronunciation": "Qǐng gàosu wǒ nǐ de dìzhǐ.",
+    "example_translation": "Hãy cho tôi biết địa chỉ của bạn."
+  },
+  {
+    "word": "调查",
+    "pronunciation": "diào chá",
+    "meaning": "điều tra",
+    "example": "我们需要进行调查。",
+    "example_pronunciation": "Wǒmen xūyào jìnxíng diàochá.",
+    "example_translation": "Chúng tôi cần tiến hành điều tra."
+  },
+  {
+    "word": "掉",
+    "pronunciation": "diào",
+    "meaning": "rơi",
+    "example": "他掉了钥匙。",
+    "example_pronunciation": "Tā diào le yàoshi.",
+    "example_translation": "Anh ấy làm rơi chìa khóa."
+  },
+  {
+    "word": "丢",
+    "pronunciation": "diū",
+    "meaning": "mất",
+    "example": "我的书丢了。",
+    "example_pronunciation": "Wǒ de shū diū le.",
+    "example_translation": "Sách của tôi bị mất rồi."
+  },
+  {
+    "word": "动作",
+    "pronunciation": "dòng zuò",
+    "meaning": "động tác",
+    "example": "他的动作很快。",
+    "example_pronunciation": "Tā de dòngzuò hěn kuài.",
+    "example_translation": "Hành động của anh ấy rất nhanh."
+  },
+  {
+    "word": "堵车",
+    "pronunciation": "dǔ chē",
+    "meaning": "tắc đường",
+    "example": "上班时间常常堵车。",
+    "example_pronunciation": "Shàngbān shíjiān chángcháng dǔchē.",
+    "example_translation": "Giờ đi làm thường hay tắc đường."
+  },
+  {
+    "word": "肚子",
+    "pronunciation": "dù zi",
+    "meaning": "bụng",
+    "example": "我肚子疼。",
+    "example_pronunciation": "Wǒ dùzi téng.",
+    "example_translation": "Tôi đau bụng."
+  },
+  {
+    "word": "短信",
+    "pronunciation": "duǎn xìn",
+    "meaning": "tin nhắn",
+    "example": "他发了一条短信。",
+    "example_pronunciation": "Tā fā le yī tiáo duǎnxìn.",
+    "example_translation": "Anh ấy gửi một tin nhắn."
+  },
+  {
+    "word": "对话",
+    "pronunciation": "duì huà",
+    "meaning": "hội thoại, đối thoại",
+    "example": "他们在进行对话。",
+    "example_pronunciation": "Tāmen zài jìnxíng duìhuà.",
+    "example_translation": "Họ đang đối thoại."
+  },
+  {
+    "word": "对面",
+    "pronunciation": "duì miàn",
+    "meaning": "đối diện",
+    "example": "银行在街的对面。",
+    "example_pronunciation": "Yínháng zài jiē de duìmiàn.",
+    "example_translation": "Ngân hàng ở phía đối diện của đường."
+  },
+  {
+    "word": "对于",
+    "pronunciation": "duì yú",
+    "meaning": "về (vấn đề gì đó)",
+    "example": "对于这个问题，我有不同的看法。",
+    "example_pronunciation": "Duìyú zhège wèntí, wǒ yǒu bùtóng de kànfǎ.",
+    "example_translation": "Đối với vấn đề này, tôi có quan điểm khác."
+  },
+  {
+    "word": "儿童",
+    "pronunciation": "ér tóng",
+    "meaning": "trẻ con",
+    "example": "儿童需要很多关爱。",
+    "example_pronunciation": "Értóng xūyào hěn duō guān'ài.",
+    "example_translation": "Trẻ em cần nhiều sự quan tâm."
+  },
+  {
+    "word": "而",
+    "pronunciation": "ér",
+    "meaning": "còn",
+    "example": "他聪明而且努力。",
+    "example_pronunciation": "Tā cōngmíng érqiě nǔlì.",
+    "example_translation": "Anh ấy thông minh và chăm chỉ."
+  },
+  {
+    "word": "发生",
+    "pronunciation": "fā shēng",
+    "meaning": "xảy ra",
+    "example": "事故晚上发生。",
+    "example_pronunciation": "Shìgù wǎnshàng fāshēng.",
+    "example_translation": "Tai nạn xảy ra vào buổi tối."
+  },
+  {
+    "word": "发展",
+    "pronunciation": "fā zhǎn",
+    "meaning": "phát triển",
+    "example": "城市在快速发展。",
+    "example_pronunciation": "Chéngshì zài kuàisù fāzhǎn.",
+    "example_translation": "Thành phố đang phát triển nhanh chóng."
+  },
+  {
+    "word": "法律",
+    "pronunciation": "fǎ lǜ",
+    "meaning": "pháp luật",
+    "example": "每个人都应该遵守法律。",
+    "example_pronunciation": "Měi gèrén dōu yīnggāi zūnshǒu fǎlǜ.",
+    "example_translation": "Mỗi người đều nên tuân thủ pháp luật."
+  },
+  {
+    "word": "翻译",
+    "pronunciation": "fān yì",
+    "meaning": "phiên dịch",
+    "example": "请把它翻译成越南语。",
+    "example_pronunciation": "Qǐng bǎ tā fānyì chéng Yuènán yǔ.",
+    "example_translation": "Làm ơn dịch nó sang tiếng Việt."
+  },
+  {
+    "word": "烦恼",
+    "pronunciation": "fán nǎo",
+    "meaning": "phiền não",
+    "example": "我有些烦恼。",
+    "example_pronunciation": "Wǒ yǒu xiē fánnǎo.",
+    "example_translation": "Tôi có chút phiền muộn."
+  },
+  {
+    "word": "反对",
+    "pronunciation": "fǎn duì",
+    "meaning": "phản đối",
+    "example": "他反对这个计划。",
+    "example_pronunciation": "Tā fǎnduì zhège jìhuà.",
+    "example_translation": "Anh ấy phản đối kế hoạch này."
+  },
+  {
+    "word": "方法",
+    "pronunciation": "fāng fǎ",
+    "meaning": "phương pháp",
+    "example": "他有很多方法。",
+    "example_pronunciation": "Tā yǒu hěn duō fāngfǎ.",
+    "example_translation": "Anh ấy có nhiều phương pháp."
+  },
+  {
+    "word": "方面",
+    "pronunciation": "fāng miàn",
+    "meaning": "phương diện",
+    "example": "我们在这个方面有很多经验。",
+    "example_pronunciation": "Wǒmen zài zhège fāngmiàn yǒu hěn duō jīngyàn.",
+    "example_translation": "Chúng tôi có nhiều kinh nghiệm trong lĩnh vực này."
+  },
+  {
+    "word": "方向",
+    "pronunciation": "fāng xiàng",
+    "meaning": "phương hướng",
+    "example": "我们向北走，方向正确。",
+    "example_pronunciation": "Wǒmen xiàng běi zǒu, fāngxiàng zhèngquè.",
+    "example_translation": "Chúng tôi đi về phía bắc, hướng đi đúng."
+  },
+  {
+    "word": "房东",
+    "pronunciation": "fáng dōng",
+    "meaning": "chủ nhà",
+    "example": "房东每天早上都来。",
+    "example_pronunciation": "Fángdōng měitiān zǎoshang dōu lái.",
+    "example_translation": "Chủ nhà đến mỗi buổi sáng."
+  },
+  {
+    "word": "放弃",
+    "pronunciation": "fàng qì",
+    "meaning": "vứt bỏ, từ bỏ",
+    "example": "他放弃了这个机会。",
+    "example_pronunciation": "Tā fàngqì le zhège jīhuì.",
+    "example_translation": "Anh ấy đã từ bỏ cơ hội này."
+  },
+  {
+    "word": "放暑假",
+    "pronunciation": "fàng shǔ jià",
+    "meaning": "nghỉ hè",
+    "example": "我们放暑假了。",
+    "example_pronunciation": "Wǒmen fàng shǔjià le.",
+    "example_translation": "Chúng tôi đã nghỉ hè."
+  },
+  {
+    "word": "放松",
+    "pronunciation": "fàng sōng",
+    "meaning": "thư giãn",
+    "example": "放松一下，别紧张。",
+    "example_pronunciation": "Fàngsōng yīxià, bié jǐnzhāng.",
+    "example_translation": "Thư giãn một chút, đừng căng thẳng."
+  },
+  {
+    "word": "份",
+    "pronunciation": "fèn",
+    "meaning": "phần",
+    "example": "这是一份礼物。",
+    "example_pronunciation": "Zhè shì yī fèn lǐwù.",
+    "example_translation": "Đây là một món quà."
+  },
+  {
+    "word": "丰富",
+    "pronunciation": "fēng fù",
+    "meaning": "phong phú",
+    "example": "他有丰富的经验。",
+    "example_pronunciation": "Tā yǒu fēngfù de jīngyàn.",
+    "example_translation": "Anh ấy có kinh nghiệm phong phú."
+  },
+  {
+    "word": "否则",
+    "pronunciation": "fǒu zé",
+    "meaning": "nếu không thì",
+    "example": "你得早点起床，否则会迟到。",
+    "example_pronunciation": "Nǐ děi zǎodiǎn qǐchuáng, fǒuzé huì chídào.",
+    "example_translation": "Bạn phải dậy sớm, nếu không sẽ bị trễ."
+  },
+  {
+    "word": "符合",
+    "pronunciation": "fú hé",
+    "meaning": "phù hợp",
+    "example": "你的答案符合要求。",
+    "example_pronunciation": "Nǐ de dá'àn fúhé yāoqiú.",
+    "example_translation": "Câu trả lời của bạn đáp ứng yêu cầu."
+  },
+  {
+    "word": "父亲",
+    "pronunciation": "fù qīn",
+    "meaning": "bố",
+    "example": "我的父亲很勤劳。",
+    "example_pronunciation": "Wǒ de fùqīn hěn qínláo.",
+    "example_translation": "Bố tôi rất chăm chỉ."
+  },
+  {
+    "word": "付款",
+    "pronunciation": "fù kuǎn",
+    "meaning": "thanh toán",
+    "example": "我们可以用信用卡付款。",
+    "example_pronunciation": "Wǒmen kěyǐ yòng xìnyòngkǎ fùkuǎn.",
+    "example_translation": "Chúng ta có thể thanh toán bằng thẻ tín dụng."
+  },
+  {
+    "word": "负责",
+    "pronunciation": "fù zé",
+    "meaning": "phụ trách",
+    "example": "他负责这项工作。",
+    "example_pronunciation": "Tā fùzé zhè xiàng gōngzuò.",
+    "example_translation": "Anh ấy phụ trách công việc này."
+  },
+  {
+    "word": "复印",
+    "pronunciation": "fù yìn",
+    "meaning": "phô tô",
+    "example": "请帮我复印这份文件。",
+    "example_pronunciation": "Qǐng bāng wǒ fùyìn zhè fèn wénjiàn.",
+    "example_translation": "Vui lòng photo giúp tôi tài liệu này."
+  },
+  {
+    "word": "复杂",
+    "pronunciation": "fù zá",
+    "meaning": "phức tạp",
+    "example": "这个问题很复杂。",
+    "example_pronunciation": "Zhège wèntí hěn fùzá.",
+    "example_translation": "Vấn đề này rất phức tạp."
+  },
+  {
+    "word": "富",
+    "pronunciation": "fù",
+    "meaning": "giàu",
+    "example": "他们家很富。",
+    "example_pronunciation": "Tāmen jiā hěn fù.",
+    "example_translation": "Nhà họ rất giàu."
+  },
+  {
+    "word": "改变",
+    "pronunciation": "gǎi biàn",
+    "meaning": "thay đổi",
+    "example": "我们需要改变计划。",
+    "example_pronunciation": "Wǒmen xūyào gǎibiàn jìhuà.",
+    "example_translation": "Chúng ta cần thay đổi kế hoạch."
+  },
+  {
+    "word": "干杯",
+    "pronunciation": "gān bēi",
+    "meaning": "cạn ly",
+    "example": "为我们的成功干杯！",
+    "example_pronunciation": "Wèi wǒmen de chénggōng gānbēi!",
+    "example_translation": "Cạn ly vì thành công của chúng ta!"
+  },
+  {
+    "word": "赶",
+    "pronunciation": "gǎn",
+    "meaning": "đuổi theo",
+    "example": "我们必须赶上火车。",
+    "example_pronunciation": "Wǒmen bìxū gǎn shàng huǒchē.",
+    "example_translation": "Chúng ta phải kịp chuyến tàu."
+  },
+  {
+    "word": "敢",
+    "pronunciation": "gǎn",
+    "meaning": "dám",
+    "example": "我不敢说。",
+    "example_pronunciation": "Wǒ bù gǎn shuō.",
+    "example_translation": "Tôi không dám nói."
+  },
+  {
+    "word": "感动",
+    "pronunciation": "gǎn dòng",
+    "meaning": "cảm động",
+    "example": "她的故事让我很感动。",
+    "example_pronunciation": "Tā de gùshì ràng wǒ hěn gǎndòng.",
+    "example_translation": "Câu chuyện của cô ấy làm tôi rất cảm động."
+  },
+  {
+    "word": "感觉",
+    "pronunciation": "gǎn jué",
+    "meaning": "cảm giác",
+    "example": "我感觉很累。",
+    "example_pronunciation": "Wǒ gǎnjué hěn lèi.",
+    "example_translation": "Tôi cảm thấy rất mệt."
+  },
+  {
+    "word": "感情",
+    "pronunciation": "gǎn qíng",
+    "meaning": "tình cảm",
+    "example": "他们之间有很深的感情。",
+    "example_pronunciation": "Tāmen zhī jiān yǒu hěn shēn de gǎnqíng.",
+    "example_translation": "Giữa họ có tình cảm rất sâu đậm."
+  },
+  {
+    "word": "感谢",
+    "pronunciation": "gǎn xiè",
+    "meaning": "cảm ơn",
+    "example": "非常感谢你的帮助。",
+    "example_pronunciation": "Fēicháng gǎnxiè nǐ de bāngzhù.",
+    "example_translation": "Rất cảm ơn sự giúp đỡ của bạn."
+  },
+  {
+    "word": "干",
+    "pronunciation": "gān",
+    "meaning": "khô",
+    "example": "天气干燥。",
+    "example_pronunciation": "Tiānqì gānzào.",
+    "example_translation": "Thời tiết khô ráo."
+  },
+  {
+    "word": "刚",
+    "pronunciation": "gāng",
+    "meaning": "vừa mới",
+    "example": "我刚到家。",
+    "example_pronunciation": "Wǒ gāng dào jiā.",
+    "example_translation": "Tôi vừa về đến nhà."
+  },
+  {
+    "word": "高速公路",
+    "pronunciation": "gāo sù gōng lù",
+    "meaning": "đường cao tốc",
+    "example": "我们在高速公路上开车。",
+    "example_pronunciation": "Wǒmen zài gāosù gōnglù shàng kāichē.",
+    "example_translation": "Chúng tôi lái xe trên đường cao tốc."
+  },
+  {
+    "word": "胳膊",
+    "pronunciation": "gē bo",
+    "meaning": "cánh tay",
+    "example": "我的胳膊疼。",
+    "example_pronunciation": "Wǒ de gēbo téng.",
+    "example_translation": "Cánh tay của tôi đau."
+  },
+  {
+    "word": "各",
+    "pronunciation": "gè",
+    "meaning": "các",
+    "example": "各种水果都很好吃。",
+    "example_pronunciation": "Gè zhǒng shuǐguǒ dōu hěn hǎochī.",
+    "example_translation": "Các loại trái cây đều rất ngon."
+  },
+  {
+    "word": "工资",
+    "pronunciation": "gōng zī",
+    "meaning": "lương",
+    "example": "他每个月的工资很高。",
+    "example_pronunciation": "Tā měi gè yuè de gōngzī hěn gāo.",
+    "example_translation": "Lương hàng tháng của anh ấy rất cao."
+  },
+  {
+    "word": "公里",
+    "pronunciation": "gōng lǐ",
+    "meaning": "km",
+    "example": "我们走了一公里。",
+    "example_pronunciation": "Wǒmen zǒu le yī gōnglǐ.",
+    "example_translation": "Chúng tôi đã đi được một kilomet."
+  },
+  {
+    "word": "功夫",
+    "pronunciation": "gōng fū",
+    "meaning": "công phu",
+    "example": "他功夫很好。",
+    "example_pronunciation": "Tā gōngfu hěn hǎo.",
+    "example_translation": "Anh ấy giỏi võ."
+  },
+  {
+    "word": "共同",
+    "pronunciation": "gòng tóng",
+    "meaning": "giống nhau",
+    "example": "我们有共同的兴趣爱好。",
+    "example_pronunciation": "Wǒmen yǒu gòngtóng de xìngqù àihào.",
+    "example_translation": "Chúng tôi có sở thích chung."
+  },
+  {
+    "word": "购物",
+    "pronunciation": "gòu wù",
+    "meaning": "mua sắm",
+    "example": "我喜欢购物。",
+    "example_pronunciation": "Wǒ xǐhuān gòuwù.",
+    "example_translation": "Tôi thích mua sắm."
+  },
+  {
+    "word": "够",
+    "pronunciation": "gòu",
+    "meaning": "đủ",
+    "example": "这些水果够我们吃了。",
+    "example_pronunciation": "Zhèxiē shuǐguǒ gòu wǒmen chī le.",
+    "example_translation": "Những trái cây này đủ cho chúng ta ăn."
+  },
+  {
+    "word": "估计",
+    "pronunciation": "gū jì",
+    "meaning": "ước lượng",
+    "example": "我估计他今天不会来了。",
+    "example_pronunciation": "Wǒ gūjì tā jīntiān bù huì lái le.",
+    "example_translation": "Tôi đoán anh ấy sẽ không đến hôm nay."
+  },
+  {
+    "word": "鼓励",
+    "pronunciation": "gǔ lì",
+    "meaning": "cổ vũ",
+    "example": "他经常鼓励我。",
+    "example_pronunciation": "Tā jīngcháng gǔlì wǒ.",
+    "example_translation": "Anh ấy thường khích lệ tôi."
+  },
+  {
+    "word": "故意",
+    "pronunciation": "gù yì",
+    "meaning": "cố ý",
+    "example": "他故意不回答我的问题。",
+    "example_pronunciation": "Tā gùyì bù huídá wǒ de wèntí.",
+    "example_translation": "Anh ấy cố tình không trả lời câu hỏi của tôi."
+  },
+  {
+    "word": "顾客",
+    "pronunciation": "gù kè",
+    "meaning": "khách hàng",
+    "example": "这个商店的顾客很多。",
+    "example_pronunciation": "Zhège shāngdiàn de gùkè hěn duō.",
+    "example_translation": "Cửa hàng này có nhiều khách hàng."
+  },
+  {
+    "word": "挂",
+    "pronunciation": "guà",
+    "meaning": "treo, ngắt điện thoại",
+    "example": "请把衣服挂起来。",
+    "example_pronunciation": "Qǐng bǎ yīfu guà qǐlái.",
+    "example_translation": "Vui lòng treo quần áo lên."
+  },
+  {
+    "word": "关键",
+    "pronunciation": "guān jiàn",
+    "meaning": "mấu chốt",
+    "example": "这是问题的关键。",
+    "example_pronunciation": "Zhè shì wèntí de guānjiàn.",
+    "example_translation": "Đây là điểm mấu chốt của vấn đề."
+  },
+  {
+    "word": "观众",
+    "pronunciation": "guān zhòng",
+    "meaning": "khán giả",
+    "example": "观众们都很满意。",
+    "example_pronunciation": "Guānzhòngmen dōu hěn mǎnyì.",
+    "example_translation": "Khán giả đều rất hài lòng."
+  },
+  {
+    "word": "管理",
+    "pronunciation": "guǎn lǐ",
+    "meaning": "quản lý",
+    "example": "他负责管理这个项目。",
+    "example_pronunciation": "Tā fùzé guǎnlǐ zhège xiàngmù.",
+    "example_translation": "Anh ấy phụ trách quản lý dự án này."
+  },
+  {
+    "word": "光",
+    "pronunciation": "guāng",
+    "meaning": "chỉ, hết",
+    "example": "我们都吃光了你才来。",
+    "example_pronunciation": "Wǒmen dōu chī guāngle nǐ cái lái",
+    "example_translation": "Tụi tôi ăn hết rồi bạn mới tới."
+  },
+  {
+    "word": "广播",
+    "pronunciation": "guǎng bō",
+    "meaning": "phát thanh",
+    "example": "我每天听广播。",
+    "example_pronunciation": "Wǒ měitiān tīng guǎngbò.",
+    "example_translation": "Tôi nghe đài phát thanh mỗi ngày."
+  },
+  {
+    "word": "广告",
+    "pronunciation": "guǎng gào",
+    "meaning": "quảng cáo",
+    "example": "电视上有很多广告。",
+    "example_pronunciation": "Diànshì shàng yǒu hěn duō guǎnggào.",
+    "example_translation": "Trên TV có rất nhiều quảng cáo."
+  },
+  {
+    "word": "逛",
+    "pronunciation": "guàng",
+    "meaning": "đi dạo",
+    "example": "我喜欢逛街。",
+    "example_pronunciation": "Wǒ xǐhuān guàngjiē.",
+    "example_translation": "Tôi thích đi dạo phố."
+  },
+  {
+    "word": "规定",
+    "pronunciation": "guī dìng",
+    "meaning": "qui định",
+    "example": "我们需要遵守规定。",
+    "example_pronunciation": "Wǒmen xūyào zūnshǒu guīdìng.",
+    "example_translation": "Chúng ta cần tuân thủ quy định."
+  },
+  {
+    "word": "国籍",
+    "pronunciation": "guó jí",
+    "meaning": "quốc tịch",
+    "example": "你的国籍是什么？",
+    "example_pronunciation": "Nǐ de guójí shì shénme?",
+    "example_translation": "Quốc tịch của bạn là gì?"
+  },
+  {
+    "word": "国际",
+    "pronunciation": "guó jì",
+    "meaning": "quốc tế",
+    "example": "这是一个国际会议。",
+    "example_pronunciation": "Zhè shì yī gè guójì huìyì.",
+    "example_translation": "Đây là một hội nghị quốc tế."
+  },
+  {
+    "word": "果汁",
+    "pronunciation": "guǒ zhī",
+    "meaning": "nước hoa quả",
+    "example": "我喜欢喝果汁。",
+    "example_pronunciation": "Wǒ xǐhuān hē guǒzhī.",
+    "example_translation": "Tôi thích uống nước ép trái cây."
+  },
+  {
+    "word": "过程",
+    "pronunciation": "guò chéng",
+    "meaning": "quá trình",
+    "example": "整个过程很复杂。",
+    "example_pronunciation": "Zhěnggè guòchéng hěn fùzá.",
+    "example_translation": "Toàn bộ quá trình rất phức tạp."
+  },
+  {
+    "word": "海洋",
+    "pronunciation": "hǎi yáng",
+    "meaning": "đại dương",
+    "example": "海洋很广阔。",
+    "example_pronunciation": "Hǎiyáng hěn guǎngkuò.",
+    "example_translation": "Đại dương rất rộng lớn."
+  },
+  {
+    "word": "害羞",
+    "pronunciation": "hài xiū",
+    "meaning": "xấu hổ",
+    "example": "他很害羞。",
+    "example_pronunciation": "Tā hěn hàixiū.",
+    "example_translation": "Anh ấy rất ngại ngùng."
+  },
+  {
+    "word": "寒假",
+    "pronunciation": "hán jià",
+    "meaning": "kì nghỉ đông",
+    "example": "寒假我们去旅行。",
+    "example_pronunciation": "Hánjià wǒmen qù lǚxíng.",
+    "example_translation": "Kỳ nghỉ đông chúng tôi đi du lịch."
+  },
+  {
+    "word": "汗",
+    "pronunciation": "hàn",
+    "meaning": "mồ hôi",
+    "example": "他流了很多汗。",
+    "example_pronunciation": "Tā liú le hěn duō hàn.",
+    "example_translation": "Anh ấy đổ rất nhiều mồ hôi."
+  },
+  {
+    "word": "航班",
+    "pronunciation": "háng bān",
+    "meaning": "chuyến bay",
+    "example": "我们的航班延误了。",
+    "example_pronunciation": "Wǒmen de hángbān yánwù le.",
+    "example_translation": "Chuyến bay của chúng tôi bị hoãn."
+  },
+  {
+    "word": "好处",
+    "pronunciation": "hǎo chù",
+    "meaning": "cái tốt",
+    "example": "这样做有很多好处。",
+    "example_pronunciation": "Zhèyàng zuò yǒu hěn duō hǎochù.",
+    "example_translation": "Làm như vậy có rất nhiều lợi ích."
+  },
+  {
+    "word": "好像",
+    "pronunciation": "hǎo xiàng",
+    "meaning": "dường như",
+    "example": "他好像生病了。",
+    "example_pronunciation": "Tā hǎoxiàng shēngbìng le.",
+    "example_translation": "Anh ấy hình như bị ốm."
+  },
+  {
+    "word": "号码",
+    "pronunciation": "hào mǎ",
+    "meaning": "số",
+    "example": "请告诉我你的电话号码。",
+    "example_pronunciation": "Qǐng gàosù wǒ nǐ de diànhuà hàomǎ.",
+    "example_translation": "Hãy cho tôi biết số điện thoại của bạn."
+  },
+  {
+    "word": "合格",
+    "pronunciation": "hé gé",
+    "meaning": "đạt yêu cầu",
+    "example": "他的成绩很合格。",
+    "example_pronunciation": "Tā de chéngjì hěn hégé.",
+    "example_translation": "Thành tích của anh ấy đạt yêu cầu."
+  },
+  {
+    "word": "合适",
+    "pronunciation": "hé shì",
+    "meaning": "thích hợp",
+    "example": "这件衣服很合适。",
+    "example_pronunciation": "Zhè jiàn yīfú hěn héshì.",
+    "example_translation": "Bộ quần áo này rất hợp."
+  },
+  {
+    "word": "盒子",
+    "pronunciation": "hé zi",
+    "meaning": "cái hộp",
+    "example": "他打开了盒子。",
+    "example_pronunciation": "Tā dǎkāi le hézi.",
+    "example_translation": "Anh ấy mở cái hộp ra."
+  },
+  {
+    "word": "后悔",
+    "pronunciation": "hòu huǐ",
+    "meaning": "hối hận",
+    "example": "我后悔没去旅行。",
+    "example_pronunciation": "Wǒ hòuhuǐ méi qù lǚxíng.",
+    "example_translation": "Tôi hối hận vì đã không đi du lịch."
+  },
+  {
+    "word": "厚",
+    "pronunciation": "hòu",
+    "meaning": "dày",
+    "example": "这本书很厚。",
+    "example_pronunciation": "Zhè běn shū hěn hòu.",
+    "example_translation": "Cuốn sách này rất dày."
+  },
+  {
+    "word": "互联网",
+    "pronunciation": "hù lián wǎng",
+    "meaning": "mạng internet",
+    "example": "互联网改变了我们的生活。",
+    "example_pronunciation": "Hùliánwǎng gǎibiàn le wǒmen de shēnghuó.",
+    "example_translation": "Internet đã thay đổi cuộc sống của chúng ta."
+  },
+  {
+    "word": "互相",
+    "pronunciation": "hù xiāng",
+    "meaning": "lẫn nhau",
+    "example": "他们互相帮助。",
+    "example_pronunciation": "Tāmen hùxiāng bāngzhù.",
+    "example_translation": "Họ giúp đỡ lẫn nhau."
+  },
+  {
+    "word": "护士",
+    "pronunciation": "hù shì",
+    "meaning": "y tá",
+    "example": "护士很辛苦。",
+    "example_pronunciation": "Hùshì hěn xīnkǔ.",
+    "example_translation": "Y tá rất vất vả."
+  },
+  {
+    "word": "怀疑",
+    "pronunciation": "huái yí",
+    "meaning": "nghi ngờ",
+    "example": "我怀疑他在撒谎。",
+    "example_pronunciation": "Wǒ huáiyí tā zài sāhuǎng.",
+    "example_translation": "Tôi nghi ngờ anh ấy đang nói dối."
+  },
+  {
+    "word": "回忆",
+    "pronunciation": "huí yì",
+    "meaning": "hồi ức, nhớ lại",
+    "example": "这些都是美好的回忆。",
+    "example_pronunciation": "Zhèxiē dōu shì měihǎo de huíyì.",
+    "example_translation": "Đây đều là những kỷ niệm đẹp."
+  },
+  {
+    "word": "活动",
+    "pronunciation": "huó dòng",
+    "meaning": "hoạt động",
+    "example": "学校组织了很多活动。",
+    "example_pronunciation": "Xuéxiào zǔzhī le hěn duō huódòng.",
+    "example_translation": "Trường học tổ chức nhiều hoạt động."
+  },
+  {
+    "word": "活泼",
+    "pronunciation": "huó pō",
+    "meaning": "hoạt bát",
+    "example": "她很活泼。",
+    "example_pronunciation": "Tā hěn huópō.",
+    "example_translation": "Cô ấy rất hoạt bát."
+  },
+  {
+    "word": "火",
+    "pronunciation": "huǒ",
+    "meaning": "lửa",
+    "example": "火很危险。",
+    "example_pronunciation": "Huǒ hěn wēixiǎn.",
+    "example_translation": "Lửa rất nguy hiểm."
+  },
+  {
+    "word": "获得",
+    "pronunciation": "huò dé",
+    "meaning": "giành được",
+    "example": "他获得了奖学金。",
+    "example_pronunciation": "Tā huòdé le jiǎngxuéjīn.",
+    "example_translation": "Anh ấy đã nhận được học bổng."
+  },
+  {
+    "word": "积极",
+    "pronunciation": "jī jí",
+    "meaning": "tích cực",
+    "example": "我们应该积极面对生活。",
+    "example_pronunciation": "Wǒmen yīnggāi jījí miànduì shēnghuó.",
+    "example_translation": "Chúng ta nên tích cực đối mặt với cuộc sống."
+  },
+  {
+    "word": "积累",
+    "pronunciation": "jī lěi",
+    "meaning": "tích lũy",
+    "example": "他积累了很多经验。",
+    "example_pronunciation": "Tā jīlěi le hěn duō jīngyàn.",
+    "example_translation": "Anh ấy tích lũy được rất nhiều kinh nghiệm."
+  },
+  {
+    "word": "基础",
+    "pronunciation": "jī chǔ",
+    "meaning": "cơ sở, căn bản",
+    "example": "基础知识很重要。",
+    "example_pronunciation": "Jīchǔ zhīshì hěn zhòngyào.",
+    "example_translation": "Kiến thức cơ bản rất quan trọng."
+  },
+  {
+    "word": "激动",
+    "pronunciation": "jī dòng",
+    "meaning": "xúc động",
+    "example": "听到这个消息我很激动。",
+    "example_pronunciation": "Tīngdào zhège xiāoxī wǒ hěn jīdòng.",
+    "example_translation": "Nghe tin này tôi rất xúc động."
+  },
+  {
+    "word": "及时",
+    "pronunciation": "jí shí",
+    "meaning": "kịp thời",
+    "example": "他及时完成了任务。",
+    "example_pronunciation": "Tā jíshí wánchéng le rènwù.",
+    "example_translation": "Anh ấy hoàn thành nhiệm vụ đúng giờ."
+  },
+  {
+    "word": "即使",
+    "pronunciation": "jí shǐ",
+    "meaning": "cho dù",
+    "example": "即使下雨我们也去。",
+    "example_pronunciation": "Jíshǐ xiàyǔ wǒmen yě qù.",
+    "example_translation": "Dù trời mưa chúng ta cũng đi."
+  },
+  {
+    "word": "计划",
+    "pronunciation": "jì huà",
+    "meaning": "kế hoạch",
+    "example": "我们需要制定计划。",
+    "example_pronunciation": "Wǒmen xūyào zhìdìng jìhuà.",
+    "example_translation": "Chúng ta cần lập kế hoạch."
+  },
+  {
+    "word": "记者",
+    "pronunciation": "jì zhě",
+    "meaning": "phóng viên",
+    "example": "记者在现场报道。",
+    "example_pronunciation": "Jìzhě zài xiànchǎng bàodǎo.",
+    "example_translation": "Phóng viên đang tường thuật tại hiện trường."
+  },
+  {
+    "word": "技术",
+    "pronunciation": "jì shù",
+    "meaning": "kỹ thuật",
+    "example": "他对技术很感兴趣。",
+    "example_pronunciation": "Tā duì jìshù hěn gǎn xìngqù.",
+    "example_translation": "Anh ấy rất hứng thú với công nghệ."
+  },
+  {
+    "word": "既然",
+    "pronunciation": "jì rán",
+    "meaning": "đã….",
+    "example": "既然你来了，就一起吃饭吧。",
+    "example_pronunciation": "Jìrán nǐ lái le, jiù yīqǐ chīfàn ba.",
+    "example_translation": "Đã bạn đến rồi, cùng ăn cơm nhé."
+  },
+  {
+    "word": "继续",
+    "pronunciation": "jì xù",
+    "meaning": "tiếp tục",
+    "example": "我们继续学习。",
+    "example_pronunciation": "Wǒmen jìxù xuéxí.",
+    "example_translation": "Chúng ta tiếp tục học."
+  },
+  {
+    "word": "寄",
+    "pronunciation": "jì",
+    "meaning": "gửi",
+    "example": "他给朋友寄了封信。",
+    "example_pronunciation": "Tā gěi péngyǒu jì le fēng xìn.",
+    "example_translation": "Anh ấy gửi một bức thư cho bạn."
+  },
+  {
+    "word": "加班",
+    "pronunciation": "jiā bān",
+    "meaning": "tăng ca",
+    "example": "他常常加班。",
+    "example_pronunciation": "Tā chángcháng jiābān.",
+    "example_translation": "Anh ấy thường làm thêm giờ."
+  },
+  {
+    "word": "加油站",
+    "pronunciation": "jiā yóu zhàn",
+    "meaning": "cây xăng",
+    "example": "我们在加油站加油。",
+    "example_pronunciation": "Wǒmen zài jiāyóuzhàn jiāyóu.",
+    "example_translation": "Chúng tôi đổ xăng tại trạm xăng."
+  },
+  {
+    "word": "家具",
+    "pronunciation": "jiā jù",
+    "meaning": "đồ gia dụng",
+    "example": "这家店卖很多家具。",
+    "example_pronunciation": "Zhè jiā diàn mài hěn duō jiājù.",
+    "example_translation": "Cửa hàng này bán rất nhiều đồ nội thất."
+  },
+  {
+    "word": "假",
+    "pronunciation": "jiǎ",
+    "meaning": "giả",
+    "example": "这个是假货。",
+    "example_pronunciation": "Zhè ge shì jiǎ huò.",
+    "example_translation": "Đây là hàng giả."
+  },
+  {
+    "word": "价格",
+    "pronunciation": "jià gé",
+    "meaning": "giá cả",
+    "example": "这个产品的价格很高。",
+    "example_pronunciation": "Zhè ge chǎnpǐn de jiàgé hěn gāo.",
+    "example_translation": "Giá của sản phẩm này rất cao."
+  },
+  {
+    "word": "坚持",
+    "pronunciation": "jiān chí",
+    "meaning": "kiên trì",
+    "example": "我每天坚持跑步。",
+    "example_pronunciation": "Wǒ měitiān jiānchí pǎobù.",
+    "example_translation": "Tôi kiên trì chạy bộ mỗi ngày."
+  },
+  {
+    "word": "减肥",
+    "pronunciation": "jiǎn féi",
+    "meaning": "giảm béo",
+    "example": "她正在努力减肥。",
+    "example_pronunciation": "Tā zhèngzài nǔlì jiǎnféi.",
+    "example_translation": "Cô ấy đang cố gắng giảm cân."
+  },
+  {
+    "word": "减少",
+    "pronunciation": "jiǎn shǎo",
+    "meaning": "cắt giảm",
+    "example": "我们应该减少浪费。",
+    "example_pronunciation": "Wǒmen yīnggāi jiǎnshǎo làngfèi.",
+    "example_translation": "Chúng ta nên giảm lãng phí."
+  },
+  {
+    "word": "建议",
+    "pronunciation": "jiàn yì",
+    "meaning": "kiến nghị",
+    "example": "我有一个建议。",
+    "example_pronunciation": "Wǒ yǒu yī ge jiànyì.",
+    "example_translation": "Tôi có một đề xuất."
+  },
+  {
+    "word": "将来",
+    "pronunciation": "jiāng lái",
+    "meaning": "tương lai",
+    "example": "将来我要当医生。",
+    "example_pronunciation": "Jiānglái wǒ yào dāng yīshēng.",
+    "example_translation": "Tương lai tôi muốn trở thành bác sĩ."
+  },
+  {
+    "word": "奖金",
+    "pronunciation": "jiǎng jīn",
+    "meaning": "học bổng",
+    "example": "公司给了他奖金。",
+    "example_pronunciation": "Gōngsī gěi le tā jiǎngjīn.",
+    "example_translation": "Công ty đã thưởng tiền cho anh ấy."
+  },
+  {
+    "word": "降低",
+    "pronunciation": "jiàng dī",
+    "meaning": "hạ thấp",
+    "example": "他们降低了价格。",
+    "example_pronunciation": "Tāmen jiàngdī le jiàgé.",
+    "example_translation": "Họ đã giảm giá."
+  },
+  {
+    "word": "降落",
+    "pronunciation": "jiàng luò",
+    "meaning": "hạ cánh",
+    "example": "飞机准时降落。",
+    "example_pronunciation": "Fēijī zhǔnshí jiàngluò.",
+    "example_translation": "Máy bay hạ cánh đúng giờ."
+  },
+  {
+    "word": "交",
+    "pronunciation": "jiāo",
+    "meaning": "giao",
+    "example": "我交了作业。",
+    "example_pronunciation": "Wǒ jiāo le zuòyè.",
+    "example_translation": "Tôi đã nộp bài tập."
+  },
+  {
+    "word": "交流",
+    "pronunciation": "jiāo liú",
+    "meaning": "giao lưu",
+    "example": "我们经常交流经验。",
+    "example_pronunciation": "Wǒmen jīngcháng jiāoliú jīngyàn.",
+    "example_translation": "Chúng tôi thường trao đổi kinh nghiệm."
+  },
+  {
+    "word": "交通",
+    "pronunciation": "jiāo tōng",
+    "meaning": "giao thông",
+    "example": "交通很拥挤。",
+    "example_pronunciation": "Jiāotōng hěn yōngjǐ.",
+    "example_translation": "Giao thông rất tắc nghẽn."
+  },
+  {
+    "word": "郊区",
+    "pronunciation": "jiāo qū",
+    "meaning": "ngoại ô",
+    "example": "我住在郊区。",
+    "example_pronunciation": "Wǒ zhù zài jiāoqū.",
+    "example_translation": "Tôi sống ở ngoại ô."
+  },
+  {
+    "word": "骄傲",
+    "pronunciation": "jiāo ào",
+    "meaning": "tự hào, kiêu ngạo",
+    "example": "他很骄傲。",
+    "example_pronunciation": "Tā hěn jiāo'ào.",
+    "example_translation": "Anh ấy rất tự hào."
+  },
+  {
+    "word": "饺子",
+    "pronunciation": "jiǎo zi",
+    "meaning": "sủi cảo",
+    "example": "我喜欢吃饺子。",
+    "example_pronunciation": "Wǒ xǐhuān chī jiǎozi.",
+    "example_translation": "Tôi thích ăn bánh bao."
+  },
+  {
+    "word": "教授",
+    "pronunciation": "jiào shòu",
+    "meaning": "giáo sư",
+    "example": "他是大学教授。",
+    "example_pronunciation": "Tā shì dàxué jiàoshòu.",
+    "example_translation": "Anh ấy là giáo sư đại học."
+  },
+  {
+    "word": "教育",
+    "pronunciation": "jiào yù",
+    "meaning": "giáo dục",
+    "example": "教育很重要。",
+    "example_pronunciation": "Jiàoyù hěn zhòngyào.",
+    "example_translation": "Giáo dục rất quan trọng."
+  },
+  {
+    "word": "接受",
+    "pronunciation": "jiē shòu",
+    "meaning": "tiếp nhận",
+    "example": "我接受了他的邀请。",
+    "example_pronunciation": "Wǒ jiēshòu le tā de yāoqǐng.",
+    "example_translation": "Tôi đã nhận lời mời của anh ấy."
+  },
+  {
+    "word": "接着",
+    "pronunciation": "jiē zhe",
+    "meaning": "tiếp theo",
+    "example": "接着，我们去吃饭吧。",
+    "example_pronunciation": "Jiēzhe, wǒmen qù chīfàn ba.",
+    "example_translation": "Tiếp theo, chúng ta đi ăn nhé."
+  },
+  {
+    "word": "节",
+    "pronunciation": "jié",
+    "meaning": "tiết",
+    "example": "春节是中国的传统节日。",
+    "example_pronunciation": "Chūnjié shì Zhōngguó de chuántǒng jiérì.",
+    "example_translation": "Tết Nguyên đán là ngày lễ truyền thống của Trung Quốc."
+  },
+  {
+    "word": "节约",
+    "pronunciation": "jié yuē",
+    "meaning": "tiết kiệm",
+    "example": "我们要节约用水。",
+    "example_pronunciation": "Wǒmen yào jiéyuē yòng shuǐ.",
+    "example_translation": "Chúng ta phải tiết kiệm nước."
+  },
+  {
+    "word": "结果",
+    "pronunciation": "jié guǒ",
+    "meaning": "kết quả",
+    "example": "结果他成功了。",
+    "example_pronunciation": "Jiéguǒ tā chénggōng le.",
+    "example_translation": "Kết quả là anh ấy đã thành công."
+  },
+  {
+    "word": "解释",
+    "pronunciation": "jiě shì",
+    "meaning": "giải thích",
+    "example": "他解释了这个问题。",
+    "example_pronunciation": "Tā jiěshì le zhè ge wèntí.",
+    "example_translation": "Anh ấy đã giải thích vấn đề này."
+  },
+  {
+    "word": "尽管",
+    "pronunciation": "jǐn guǎn",
+    "meaning": "tuy rằng",
+    "example": "尽管下雨，他还是来了。",
+    "example_pronunciation": "Jǐnguǎn xiàyǔ, tā háishì lái le.",
+    "example_translation": "Dù trời mưa, anh ấy vẫn đến."
+  },
+  {
+    "word": "紧张",
+    "pronunciation": "jǐn zhāng",
+    "meaning": "căng thẳng",
+    "example": "我感到很紧张。",
+    "example_pronunciation": "Wǒ gǎndào hěn jǐnzhāng.",
+    "example_translation": "Tôi cảm thấy rất căng thẳng."
+  },
+  {
+    "word": "进行",
+    "pronunciation": "jìn xíng",
+    "meaning": "tiến hành",
+    "example": "我们正在进行讨论。",
+    "example_pronunciation": "Wǒmen zhèngzài jìnxíng tǎolùn.",
+    "example_translation": "Chúng tôi đang tiến hành thảo luận."
+  },
+  {
+    "word": "禁止",
+    "pronunciation": "jìn zhǐ",
+    "meaning": "cấm",
+    "example": "这里禁止吸烟。",
+    "example_pronunciation": "Zhèlǐ jìnzhǐ xīyān.",
+    "example_translation": "Ở đây cấm hút thuốc."
+  },
+  {
+    "word": "京剧",
+    "pronunciation": "jīng jù",
+    "meaning": "kinh kịch",
+    "example": "我喜欢看京剧。",
+    "example_pronunciation": "Wǒ xǐhuān kàn Jīngjù.",
+    "example_translation": "Tôi thích xem Kinh kịch."
+  },
+  {
+    "word": "经济",
+    "pronunciation": "jīng jì",
+    "meaning": "kinh tế",
+    "example": "经济发展很快。",
+    "example_pronunciation": "Jīngjì fāzhǎn hěn kuài.",
+    "example_translation": "Kinh tế phát triển rất nhanh."
+  },
+  {
+    "word": "经历",
+    "pronunciation": "jīng lì",
+    "meaning": "trải qua, kinh qua",
+    "example": "他有丰富的经历。",
+    "example_pronunciation": "Tā yǒu fēngfù de jīnglì.",
+    "example_translation": "Anh ấy có nhiều kinh nghiệm."
+  },
+  {
+    "word": "经验",
+    "pronunciation": "jīng yàn",
+    "meaning": "kinh nghiệm",
+    "example": "他的经验很丰富。",
+    "example_pronunciation": "Tā de jīngyàn hěn fēngfù.",
+    "example_translation": "Kinh nghiệm của anh ấy rất phong phú."
+  },
+  {
+    "word": "精彩",
+    "pronunciation": "jīng cǎi",
+    "meaning": "hấp dẫn",
+    "example": "比赛非常精彩。",
+    "example_pronunciation": "Bǐsài fēicháng jīngcǎi.",
+    "example_translation": "Trận đấu rất xuất sắc."
+  },
+  {
+    "word": "景色",
+    "pronunciation": "jǐng sè",
+    "meaning": "cảnh sắc",
+    "example": "山上的景色很美。",
+    "example_pronunciation": "Shānshàng de jǐngsè hěn měi.",
+    "example_translation": "Cảnh trên núi rất đẹp."
+  },
+  {
+    "word": "警察",
+    "pronunciation": "jǐng chá",
+    "meaning": "cảnh sát",
+    "example": "警察在调查案件。",
+    "example_pronunciation": "Jǐngchá zài diàochá ànjiàn.",
+    "example_translation": "Cảnh sát đang điều tra vụ án."
+  },
+  {
+    "word": "竞争",
+    "pronunciation": "jìng zhēng",
+    "meaning": "cạnh tranh",
+    "example": "公司之间竞争激烈。",
+    "example_pronunciation": "Gōngsī zhī jiān jìngzhēng jīliè.",
+    "example_translation": "Cạnh tranh giữa các công ty rất khốc liệt."
+  },
+  {
+    "word": "竟然",
+    "pronunciation": "jìng rán",
+    "meaning": "vậy mà lại",
+    "example": "他竟然赢了比赛。",
+    "example_pronunciation": "Tā jìngrán yíng le bǐsài.",
+    "example_translation": "Anh ấy vậy mà lại chiến thắng trận đấu."
+  },
+  {
+    "word": "镜子",
+    "pronunciation": "jìng zi",
+    "meaning": "kính, gương",
+    "example": "镜子里有个陌生人。",
+    "example_pronunciation": "Jìngzi lǐ yǒu gè mòshēng rén.",
+    "example_translation": "Trong gương có một người lạ."
+  },
+  {
+    "word": "究竟",
+    "pronunciation": "jiū jìng",
+    "meaning": "rốt cuộc",
+    "example": "究竟发生了什么事？",
+    "example_pronunciation": "Jiūjìng fāshēng le shénme shì?",
+    "example_translation": "Rốt cuộc đã xảy ra chuyện gì?"
+  },
+  {
+    "word": "举",
+    "pronunciation": "jǔ",
+    "meaning": "giơ, nâng",
+    "example": "他举手回答问题。",
+    "example_pronunciation": "Tā jǔshǒu huídá wèntí.",
+    "example_translation": "Anh ấy giơ tay trả lời câu hỏi."
+  },
+  {
+    "word": "举办",
+    "pronunciation": "jǔ bàn",
+    "meaning": "tổ chức",
+    "example": "学校举办了一个音乐会。",
+    "example_pronunciation": "Xuéxiào jǔbàn le yī gè yīnyuè huì.",
+    "example_translation": "Trường tổ chức một buổi hòa nhạc."
+  },
+  {
+    "word": "举行",
+    "pronunciation": "jǔ xíng",
+    "meaning": "tổ chức",
+    "example": "会议在北京举行。",
+    "example_pronunciation": "Huìyì zài Běijīng jǔxíng.",
+    "example_translation": "Hội nghị được tổ chức tại Bắc Kinh."
+  },
+  {
+    "word": "拒绝",
+    "pronunciation": "jù jué",
+    "meaning": "từ chối",
+    "example": "他拒绝了我的邀请。",
+    "example_pronunciation": "Tā jùjué le wǒ de yāoqǐng.",
+    "example_translation": "Anh ấy từ chối lời mời của tôi."
+  },
+  {
+    "word": "距离",
+    "pronunciation": "jù lí",
+    "meaning": "khoảng cách",
+    "example": "学校到我们家的距离很远。",
+    "example_pronunciation": "Xuéxiào dào wǒmen jiā de jùlí hěn yuǎn.",
+    "example_translation": "Trường học cách nhà chúng tôi rất xa."
+  },
+  {
+    "word": "聚会",
+    "pronunciation": "jù huì",
+    "meaning": "tụ tập",
+    "example": "我们下个星期有个聚会。",
+    "example_pronunciation": "Wǒmen xià gè xīngqī yǒu gè jùhuì.",
+    "example_translation": "Tuần sau chúng tôi có một buổi họp mặt."
+  },
+  {
+    "word": "开玩笑",
+    "pronunciation": "kāi wán xiào",
+    "meaning": "đùa",
+    "example": "他喜欢开玩笑。",
+    "example_pronunciation": "Tā xǐhuān kāiwánxiào.",
+    "example_translation": "Anh ấy thích đùa giỡn."
+  },
+  {
+    "word": "开心",
+    "pronunciation": "kāi xīn",
+    "meaning": "vui vẻ",
+    "example": "今天我很开心。",
+    "example_pronunciation": "Jīntiān wǒ hěn kāixīn.",
+    "example_translation": "Hôm nay tôi rất vui."
+  },
+  {
+    "word": "看法",
+    "pronunciation": "kàn fǎ",
+    "meaning": "quan điểm",
+    "example": "你的看法是什么？",
+    "example_pronunciation": "Nǐ de kànfǎ shì shénme?",
+    "example_translation": "Quan điểm của bạn là gì?"
+  },
+  {
+    "word": "考虑",
+    "pronunciation": "kǎo lǜ",
+    "meaning": "suy nghĩ",
+    "example": "我会考虑你的建议。",
+    "example_pronunciation": "Wǒ huì kǎolǜ nǐ de jiànyì.",
+    "example_translation": "Tôi sẽ xem xét đề nghị của bạn."
+  },
+  {
+    "word": "烤鸭",
+    "pronunciation": "kǎo yā",
+    "meaning": "vịt quay",
+    "example": "北京烤鸭很好吃。",
+    "example_pronunciation": "Běijīng kǎoyā hěn hǎochī.",
+    "example_translation": "Vịt quay Bắc Kinh rất ngon."
+  },
+  {
+    "word": "科学",
+    "pronunciation": "kē xué",
+    "meaning": "khoa học",
+    "example": "科学是非常重要的学科。",
+    "example_pronunciation": "Kēxué shì fēicháng zhòngyào de xuékē.",
+    "example_translation": "Khoa học là một môn học rất quan trọng."
+  },
+  {
+    "word": "棵",
+    "pronunciation": "kē",
+    "meaning": "lượng từ cho cây",
+    "example": "花园里有很多棵树。",
+    "example_pronunciation": "Huāyuán lǐ yǒu hěn duō kē shù.",
+    "example_translation": "Trong vườn có rất nhiều cây."
+  },
+  {
+    "word": "咳嗽",
+    "pronunciation": "ké sou",
+    "meaning": "ho",
+    "example": "我感冒了，咳嗽很厉害。",
+    "example_pronunciation": "Wǒ gǎnmào le, késou hěn lìhài.",
+    "example_translation": "Tôi bị cảm, ho rất nặng."
+  },
+  {
+    "word": "可怜",
+    "pronunciation": "kě lián",
+    "meaning": "đáng thương",
+    "example": "他很可怜，需要帮助。",
+    "example_pronunciation": "Tā hěn kělián, xūyào bāngzhù.",
+    "example_translation": "Anh ấy rất đáng thương, cần sự giúp đỡ."
+  },
+  {
+    "word": "可是",
+    "pronunciation": "kě shì",
+    "meaning": "nhưng",
+    "example": "我很想去，可是没有时间。",
+    "example_pronunciation": "Wǒ hěn xiǎng qù, kěshì méiyǒu shíjiān.",
+    "example_translation": "Tôi rất muốn đi, nhưng không có thời gian."
+  },
+  {
+    "word": "可惜",
+    "pronunciation": "kě xī",
+    "meaning": "đáng tiếc",
+    "example": "太可惜了，我没看到。",
+    "example_pronunciation": "Tài kěxī le, wǒ méi kàndào.",
+    "example_translation": "Thật đáng tiếc, tôi đã không thấy."
+  },
+  {
+    "word": "客厅",
+    "pronunciation": "kè tīng",
+    "meaning": "phòng khách",
+    "example": "客厅里有很多家具。",
+    "example_pronunciation": "Kètīng lǐ yǒu hěn duō jiājù.",
+    "example_translation": "Trong phòng khách có rất nhiều đồ nội thất."
+  },
+  {
+    "word": "肯定",
+    "pronunciation": "kěn dìng",
+    "meaning": "khẳng định",
+    "example": "这件事肯定是真的。",
+    "example_pronunciation": "Zhè jiàn shì kěndìng shì zhēn de.",
+    "example_translation": "Chuyện này chắc chắn là thật."
+  },
+  {
+    "word": "空",
+    "pronunciation": "kōng",
+    "meaning": "trống rỗng",
+    "example": "房间里空无一人。",
+    "example_pronunciation": "Fángjiān lǐ kōng wú yī rén.",
+    "example_translation": "Phòng trống không một ai."
+  },
+  {
+    "word": "空气",
+    "pronunciation": "kōng qì",
+    "meaning": "không khí",
+    "example": "山上的空气很新鲜。",
+    "example_pronunciation": "Shānshàng de kōngqì hěn xīnxiān.",
+    "example_translation": "Không khí trên núi rất trong lành."
+  },
+  {
+    "word": "恐怕",
+    "pronunciation": "kǒng pà",
+    "meaning": "e rằng",
+    "example": "我恐怕他不会来了。",
+    "example_pronunciation": "Wǒ kǒngpà tā bù huì lái le.",
+    "example_translation": "Tôi sợ rằng anh ấy sẽ không đến."
+  },
+  {
+    "word": "苦",
+    "pronunciation": "kǔ",
+    "meaning": "khổ, đắng",
+    "example": "这个药很苦。",
+    "example_pronunciation": "Zhè ge yào hěn kǔ.",
+    "example_translation": "Thuốc này rất đắng."
+  },
+  {
+    "word": "矿泉水",
+    "pronunciation": "kuàng quán shuǐ",
+    "meaning": "nước khoáng",
+    "example": "我喜欢喝矿泉水。",
+    "example_pronunciation": "Wǒ xǐhuān hē kuàngquánshuǐ.",
+    "example_translation": "Tôi thích uống nước khoáng."
+  },
+  {
+    "word": "困",
+    "pronunciation": "kùn",
+    "meaning": "buồn ngủ",
+    "example": "我昨晚没睡好，很困。",
+    "example_pronunciation": "Wǒ zuówǎn méi shuì hǎo, hěn kùn.",
+    "example_translation": "Tối qua tôi ngủ không ngon, rất buồn ngủ."
+  },
+  {
+    "word": "困难",
+    "pronunciation": "kùn nán",
+    "meaning": "khó khăn",
+    "example": "学习汉语很困难。",
+    "example_pronunciation": "Xuéxí Hànyǔ hěn kùnnán.",
+    "example_translation": "Học tiếng Trung rất khó."
+  },
+  {
+    "word": "垃圾桶",
+    "pronunciation": "lā jī tǒng",
+    "meaning": "thùng rác",
+    "example": "请把垃圾扔进垃圾桶。",
+    "example_pronunciation": "Qǐng bǎ lājī rēng jìn lājītǒng.",
+    "example_translation": "Vui lòng bỏ rác vào thùng rác."
+  },
+  {
+    "word": "拉",
+    "pronunciation": "lā",
+    "meaning": "kéo",
+    "example": "他把箱子拉到房间里。",
+    "example_pronunciation": "Tā bǎ xiāngzi lā dào fángjiān lǐ.",
+    "example_translation": "Anh ấy kéo vali vào phòng."
+  },
+  {
+    "word": "辣",
+    "pronunciation": "là",
+    "meaning": "cay",
+    "example": "我不喜欢吃辣的东西。",
+    "example_pronunciation": "Wǒ bù xǐhuān chī là de dōngxī.",
+    "example_translation": "Tôi không thích ăn đồ cay."
+  },
+  {
+    "word": "来不及",
+    "pronunciation": "lái bù jí",
+    "meaning": "không kịp",
+    "example": "我们来不及赶飞机了。",
+    "example_pronunciation": "Wǒmen láibují gǎn fēijī le.",
+    "example_translation": "Chúng tôi không kịp chuyến bay rồi."
+  },
+  {
+    "word": "来得及",
+    "pronunciation": "lái de jí",
+    "meaning": "kịp",
+    "example": "你来得及去火车站。",
+    "example_pronunciation": "Nǐ láidéjí qù huǒchē zhàn.",
+    "example_translation": "Bạn kịp giờ đi đến ga tàu."
+  },
+  {
+    "word": "来自",
+    "pronunciation": "lái zì",
+    "meaning": "đến từ",
+    "example": "他来自中国。",
+    "example_pronunciation": "Tā láizì Zhōngguó.",
+    "example_translation": "Anh ấy đến từ Trung Quốc."
+  },
+  {
+    "word": "懒",
+    "pronunciation": "lǎn",
+    "meaning": "lười biếng",
+    "example": "他很懒，不喜欢工作。",
+    "example_pronunciation": "Tā hěn lǎn, bù xǐhuān gōngzuò.",
+    "example_translation": "Anh ấy rất lười, không thích làm việc."
+  },
+  {
+    "word": "浪费",
+    "pronunciation": "làng fèi",
+    "meaning": "lãng phí",
+    "example": "我们应该避免浪费时间。",
+    "example_pronunciation": "Wǒmen yīnggāi bìmiǎn làngfèi shíjiān.",
+    "example_translation": "Chúng ta nên tránh lãng phí thời gian."
+  },
+  {
+    "word": "浪漫",
+    "pronunciation": "làng màn",
+    "meaning": "lãng mạn",
+    "example": "他们的故事很浪漫。",
+    "example_pronunciation": "Tāmen de gùshì hěn làngmàn.",
+    "example_translation": "Câu chuyện của họ rất lãng mạn."
+  },
+  {
+    "word": "老虎",
+    "pronunciation": "lǎo hǔ",
+    "meaning": "hổ",
+    "example": "动物园里有一只老虎。",
+    "example_pronunciation": "Dòngwùyuán lǐ yǒu yī zhī lǎohǔ.",
+    "example_translation": "Trong sở thú có một con hổ."
+  },
+  {
+    "word": "冷静",
+    "pronunciation": "lěng jìng",
+    "meaning": "bình tĩnh",
+    "example": "请冷静下来，不要生气。",
+    "example_pronunciation": "Qǐng lěngjìng xiàlái, bùyào shēngqì.",
+    "example_translation": "Xin hãy bình tĩnh lại, đừng tức giận."
+  },
+  {
+    "word": "礼拜天",
+    "pronunciation": "lǐ bài tiān",
+    "meaning": "chủ nhật",
+    "example": "我们星期天去公园。",
+    "example_pronunciation": "Wǒmen xīngqītiān qù gōngyuán.",
+    "example_translation": "Chủ nhật chúng ta đi công viên."
+  },
+  {
+    "word": "礼貌",
+    "pronunciation": "lǐ mào",
+    "meaning": "lễ phép, lịch sự",
+    "example": "他对人很有礼貌。",
+    "example_pronunciation": "Tā duì rén hěn yǒu lǐmào.",
+    "example_translation": "Anh ấy rất lịch sự với mọi người."
+  },
+  {
+    "word": "理发",
+    "pronunciation": "lǐ fà",
+    "meaning": "cắt tóc",
+    "example": "今天我要去理发。",
+    "example_pronunciation": "Jīntiān wǒ yào qù lǐfà.",
+    "example_translation": "Hôm nay tôi sẽ đi cắt tóc."
+  },
+  {
+    "word": "理解",
+    "pronunciation": "lǐ jiě",
+    "meaning": "lý giải, hiểu",
+    "example": "我不理解你的意思。",
+    "example_pronunciation": "Wǒ bù lǐjiě nǐ de yìsi.",
+    "example_translation": "Tôi không hiểu ý của bạn."
+  },
+  {
+    "word": "理想",
+    "pronunciation": "lǐ xiǎng",
+    "meaning": "lý tưởng",
+    "example": "他的理想是当医生。",
+    "example_pronunciation": "Tā de lǐxiǎng shì dāng yīshēng.",
+    "example_translation": "Lý tưởng của anh ấy là trở thành bác sĩ."
+  },
+  {
+    "word": "力气",
+    "pronunciation": "lì qì",
+    "meaning": "sức lực",
+    "example": "我没有力气搬动这张桌子。",
+    "example_pronunciation": "Wǒ méiyǒu lìqì bāndòng zhè zhāng zhuōzi.",
+    "example_translation": "Tôi không có sức để di chuyển cái bàn này."
+  },
+  {
+    "word": "厉害",
+    "pronunciation": "lì hài",
+    "meaning": "lợi hại",
+    "example": "他的汉语说得很厉害。",
+    "example_pronunciation": "Tā de Hànyǔ shuō de hěn lìhài.",
+    "example_translation": "Anh ấy nói tiếng Trung rất giỏi."
+  },
+  {
+    "word": "例如",
+    "pronunciation": "lì rú",
+    "meaning": "ví dụ",
+    "example": "例如，苹果和香蕉都是水果。",
+    "example_pronunciation": "Lìrú, píngguǒ hé xiāngjiāo dōu shì shuǐguǒ.",
+    "example_translation": "Ví dụ, táo và chuối đều là trái cây."
+  },
+  {
+    "word": "俩",
+    "pronunciation": "liǎ",
+    "meaning": "hai người",
+    "example": "我们俩是好朋友。",
+    "example_pronunciation": "Wǒmen liǎ shì hǎo péngyǒu.",
+    "example_translation": "Hai chúng tôi là bạn tốt."
+  },
+  {
+    "word": "连",
+    "pronunciation": "lián",
+    "meaning": "liên kết, nối",
+    "example": "他连书都没带。",
+    "example_pronunciation": "Tā lián shū dōu méi dài.",
+    "example_translation": "Anh ấy thậm chí còn không mang sách."
+  },
+  {
+    "word": "联系",
+    "pronunciation": "lián xì",
+    "meaning": "liên hệ",
+    "example": "我会联系你。",
+    "example_pronunciation": "Wǒ huì liánxì nǐ.",
+    "example_translation": "Tôi sẽ liên lạc với bạn."
+  },
+  {
+    "word": "凉快",
+    "pronunciation": "liáng kuài",
+    "meaning": "mát mẻ",
+    "example": "今天很凉快。",
+    "example_pronunciation": "Jīntiān hěn liángkuai.",
+    "example_translation": "Hôm nay rất mát mẻ."
+  },
+  {
+    "word": "零钱",
+    "pronunciation": "líng qián",
+    "meaning": "tiền lẻ",
+    "example": "我有一些零钱。",
+    "example_pronunciation": "Wǒ yǒu yīxiē língqián.",
+    "example_translation": "Tôi có một ít tiền lẻ."
+  },
+  {
+    "word": "另外",
+    "pronunciation": "lìng wài",
+    "meaning": "ngoài ra, còn lại",
+    "example": "我们还有另外一个问题要解决。",
+    "example_pronunciation": "Wǒmen hái yǒu lìngwài yī ge wèntí yào jiějué.",
+    "example_translation": "Chúng ta còn một vấn đề khác cần giải quyết."
+  },
+  {
+    "word": "留",
+    "pronunciation": "liú",
+    "meaning": "lưu lại, ở lại",
+    "example": "请把文件留在桌上。",
+    "example_pronunciation": "Qǐng bǎ wénjiàn liú zài zhuō shàng.",
+    "example_translation": "Vui lòng để tài liệu trên bàn."
+  },
+  {
+    "word": "流利",
+    "pronunciation": "liú lì",
+    "meaning": "lưu loát",
+    "example": "他的汉语说得很流利。",
+    "example_pronunciation": "Tā de Hànyǔ shuō de hěn liúlì.",
+    "example_translation": "Anh ấy nói tiếng Trung rất lưu loát."
+  },
+  {
+    "word": "流行",
+    "pronunciation": "liú xíng",
+    "meaning": "thịnh hành",
+    "example": "这首歌很流行。",
+    "example_pronunciation": "Zhè shǒu gē hěn liúxíng.",
+    "example_translation": "Bài hát này rất thịnh hành."
+  },
+  {
+    "word": "旅行",
+    "pronunciation": "lǚ xíng",
+    "meaning": "du lịch",
+    "example": "我们打算去旅行。",
+    "example_pronunciation": "Wǒmen dǎsuàn qù lǚxíng.",
+    "example_translation": "Chúng tôi dự định đi du lịch."
+  },
+  {
+    "word": "律师",
+    "pronunciation": "lǜ shī",
+    "meaning": "luật sư",
+    "example": "他是一名律师。",
+    "example_pronunciation": "Tā shì yī míng lǜshī.",
+    "example_translation": "Anh ấy là một luật sư."
+  },
+  {
+    "word": "乱",
+    "pronunciation": "luàn",
+    "meaning": "loạn",
+    "example": "房间里很乱。",
+    "example_pronunciation": "Fángjiān lǐ hěn luàn.",
+    "example_translation": "Phòng rất lộn xộn."
+  },
+  {
+    "word": "麻烦",
+    "pronunciation": "má fan",
+    "meaning": "phiền phức, làm phiền",
+    "example": "麻烦你帮我拿一下。",
+    "example_pronunciation": "Máfan nǐ bāng wǒ ná yīxià.",
+    "example_translation": "Phiền bạn giúp tôi cầm cái này."
+  },
+  {
+    "word": "马虎",
+    "pronunciation": "mǎ hu",
+    "meaning": "qua loa",
+    "example": "他做事很马虎。",
+    "example_pronunciation": "Tā zuòshì hěn mǎhǔ.",
+    "example_translation": "Anh ấy làm việc rất cẩu thả."
+  },
+  {
+    "word": "满",
+    "pronunciation": "mǎn",
+    "meaning": "đầy",
+    "example": "我的行李箱装满了。",
+    "example_pronunciation": "Wǒ de xínglǐ xiāng zhuāng mǎnle.",
+    "example_translation": "Vali của tôi đầy rồi."
+  },
+  {
+    "word": "毛",
+    "pronunciation": "máo",
+    "meaning": "lông",
+    "example": "我不喜欢穿毛衣。",
+    "example_pronunciation": "Wǒ bù xǐhuān chuān máoyī.",
+    "example_translation": "Tôi không thích mặc áo lông."
+  },
+  {
+    "word": "毛巾",
+    "pronunciation": "máo jīn",
+    "meaning": "khăn bông",
+    "example": "请给我一条毛巾。",
+    "example_pronunciation": "Qǐng gěi wǒ yī tiáo máojīn.",
+    "example_translation": "Xin hãy đưa cho tôi một cái khăn tắm."
+  },
+  {
+    "word": "美丽",
+    "pronunciation": "měi lì",
+    "meaning": "đẹp",
+    "example": "这个地方很美丽。",
+    "example_pronunciation": "Zhè ge dìfāng hěn měilì.",
+    "example_translation": "Nơi này rất đẹp."
+  },
+  {
+    "word": "梦",
+    "pronunciation": "mèng",
+    "meaning": "giấc mơ, mơ",
+    "example": "我昨晚做了一个好梦。",
+    "example_pronunciation": "Wǒ zuówǎn zuò le yī ge hǎo mèng.",
+    "example_translation": "Tối qua tôi đã có một giấc mơ đẹp."
+  },
+  {
+    "word": "迷路",
+    "pronunciation": "mí lù",
+    "meaning": "lạc đường",
+    "example": "我迷路了，找不到回家的路。",
+    "example_pronunciation": "Wǒ mílù le, zhǎo bù dào huí jiā de lù.",
+    "example_translation": "Tôi bị lạc, không tìm thấy đường về nhà."
+  },
+  {
+    "word": "密码",
+    "pronunciation": "mì mǎ",
+    "meaning": "mật khẩu",
+    "example": "请不要告诉别人我的密码。",
+    "example_pronunciation": "Qǐng bùyào gàosù biérén wǒ de mìmǎ.",
+    "example_translation": "Xin đừng nói mật khẩu của tôi cho người khác."
+  },
+  {
+    "word": "免费",
+    "pronunciation": "miǎn fèi",
+    "meaning": "miễn phí",
+    "example": "这家博物馆是免费的。",
+    "example_pronunciation": "Zhè jiā bówùguǎn shì miǎnfèi de.",
+    "example_translation": "Bảo tàng này miễn phí."
+  },
+  {
+    "word": "秒",
+    "pronunciation": "miǎo",
+    "meaning": "giây",
+    "example": "我们需要等几秒钟。",
+    "example_pronunciation": "Wǒmen xūyào děng jǐ miǎo zhōng.",
+    "example_translation": "Chúng ta cần đợi vài giây."
+  },
+  {
+    "word": "民族",
+    "pronunciation": "mín zú",
+    "meaning": "dân tộc",
+    "example": "中国是一个多民族的国家。",
+    "example_pronunciation": "Zhōngguó shì yī ge duō mínzú de guójiā.",
+    "example_translation": "Trung Quốc là một quốc gia đa dân tộc."
+  },
+  {
+    "word": "母亲",
+    "pronunciation": "mǔ qin",
+    "meaning": "mẹ",
+    "example": "我的母亲很善良。",
+    "example_pronunciation": "Wǒ de mǔqīn hěn shànliáng.",
+    "example_translation": "Mẹ của tôi rất hiền lành."
+  },
+  {
+    "word": "目的",
+    "pronunciation": "mù dì",
+    "meaning": "mục đích",
+    "example": "我的目的是学好汉语。",
+    "example_pronunciation": "Wǒ de mùdì shì xuéhǎo Hànyǔ.",
+    "example_translation": "Mục đích của tôi là học giỏi tiếng Trung."
+  },
+  {
+    "word": "耐心",
+    "pronunciation": "nài xīn",
+    "meaning": "nhẫn nại",
+    "example": "请耐心一点。",
+    "example_pronunciation": "Qǐng nàixīn yīdiǎn.",
+    "example_translation": "Xin hãy kiên nhẫn một chút."
+  },
+  {
+    "word": "难道",
+    "pronunciation": "nán dào",
+    "meaning": "lẽ nào",
+    "example": "难道你不想去吗？",
+    "example_pronunciation": "Nándào nǐ bù xiǎng qù ma?",
+    "example_translation": "Chẳng lẽ bạn không muốn đi à?"
+  },
+  {
+    "word": "难受",
+    "pronunciation": "nán shòu",
+    "meaning": "buồn",
+    "example": "他觉得很难受。",
+    "example_pronunciation": "Tā juéde hěn nánshòu.",
+    "example_translation": "Anh ấy cảm thấy rất khó chịu."
+  },
+  {
+    "word": "内",
+    "pronunciation": "nèi",
+    "meaning": "bên trong",
+    "example": "他住在城市内。",
+    "example_pronunciation": "Tā zhù zài chéngshì nèi.",
+    "example_translation": "Anh ấy sống trong thành phố."
+  },
+  {
+    "word": "内容",
+    "pronunciation": "nèi róng",
+    "meaning": "nội dung",
+    "example": "这本书的内容很有趣。",
+    "example_pronunciation": "Zhè běn shū de nèiróng hěn yǒuqù.",
+    "example_translation": "Nội dung của cuốn sách này rất thú vị."
+  },
+  {
+    "word": "能力",
+    "pronunciation": "néng lì",
+    "meaning": "năng lực",
+    "example": "他有很强的工作能力。",
+    "example_pronunciation": "Tā yǒu hěn qiáng de gōngzuò nénglì.",
+    "example_translation": "Anh ấy có khả năng làm việc rất tốt."
+  },
+  {
+    "word": "年龄",
+    "pronunciation": "nián líng",
+    "meaning": "tuổi tác",
+    "example": "她的年龄是25岁。",
+    "example_pronunciation": "Tā de niánlíng shì 25 suì.",
+    "example_translation": "Cô ấy 25 tuổi."
+  },
+  {
+    "word": "弄",
+    "pronunciation": "nòng",
+    "meaning": "làm",
+    "example": "别弄坏了我的手机。",
+    "example_pronunciation": "Bié nòng huài le wǒ de shǒujī.",
+    "example_translation": "Đừng làm hỏng điện thoại của tôi."
+  },
+  {
+    "word": "暖和",
+    "pronunciation": "nuǎn huo",
+    "meaning": "ấm áp",
+    "example": "今天天气很暖和。",
+    "example_pronunciation": "Jīntiān tiānqì hěn nuǎnhuo.",
+    "example_translation": "Hôm nay thời tiết rất ấm áp."
+  },
+  {
+    "word": "偶尔",
+    "pronunciation": "ǒu ěr",
+    "meaning": "đôi khi",
+    "example": "我偶尔会去图书馆。",
+    "example_pronunciation": "Wǒ ǒu'ěr huì qù túshūguǎn.",
+    "example_translation": "Thỉnh thoảng tôi sẽ đi thư viện."
+  },
+  {
+    "word": "排队",
+    "pronunciation": "pái duì",
+    "meaning": "xếp hàng",
+    "example": "请大家排队等候。",
+    "example_pronunciation": "Qǐng dàjiā páiduì děnghòu.",
+    "example_translation": "Xin mọi người xếp hàng chờ."
+  },
+  {
+    "word": "排列",
+    "pronunciation": "pái liè",
+    "meaning": "sắp xếp, xếp",
+    "example": "书架上的书排列的非常整齐。",
+    "example_pronunciation": "shūjià shàng de shū páiliè de fēicháng zhěngqí.",
+    "example_translation": "Sách trên giá xếp rất ngay ngắn."
+  },
+  {
+    "word": "判断",
+    "pronunciation": "pàn duàn",
+    "meaning": "phán đoán",
+    "example": "我无法判断他是否说真话。",
+    "example_pronunciation": "Wǒ wúfǎ pànduàn tā shìfǒu shuō zhēnhuà.",
+    "example_translation": "Tôi không thể đánh giá anh ấy có nói thật hay không."
+  },
+  {
+    "word": "陪",
+    "pronunciation": "péi",
+    "meaning": "cùng",
+    "example": "她陪我去看医生。",
+    "example_pronunciation": "Tā péi wǒ qù kàn yīshēng.",
+    "example_translation": "Cô ấy đi cùng tôi đến gặp bác sĩ."
+  },
+  {
+    "word": "批评",
+    "pronunciation": "pī píng",
+    "meaning": "phê bình",
+    "example": "他总是批评我的工作。",
+    "example_pronunciation": "Tā zǒngshì pīpíng wǒ de gōngzuò.",
+    "example_translation": "Anh ấy luôn chỉ trích công việc của tôi."
+  },
+  {
+    "word": "皮肤",
+    "pronunciation": "pí fū",
+    "meaning": "da",
+    "example": "她的皮肤很白。",
+    "example_pronunciation": "Tā de pífū hěn bái.",
+    "example_translation": "Da của cô ấy rất trắng."
+  },
+  {
+    "word": "脾气",
+    "pronunciation": "pí qì",
+    "meaning": "tính khí",
+    "example": "他的脾气很坏。",
+    "example_pronunciation": "Tā de píqì hěn huài.",
+    "example_translation": "Tính tình của anh ấy rất tệ."
+  },
+  {
+    "word": "篇",
+    "pronunciation": "piān",
+    "meaning": "lượng từ cho bài viết",
+    "example": "我读了一篇有趣的文章。",
+    "example_pronunciation": "Wǒ dú le yī piān yǒuqù de wénzhāng.",
+    "example_translation": "Tôi đã đọc một bài viết thú vị."
+  },
+  {
+    "word": "骗",
+    "pronunciation": "piàn",
+    "meaning": "lừa",
+    "example": "别骗我。",
+    "example_pronunciation": "Bié piàn wǒ.",
+    "example_translation": "Đừng lừa tôi."
+  },
+  {
+    "word": "乒乓球",
+    "pronunciation": "pīng pāng qiú",
+    "meaning": "bóng bàn",
+    "example": "我喜欢打乒乓球。",
+    "example_pronunciation": "Wǒ xǐhuān dǎ pīngpāng qiú.",
+    "example_translation": "Tôi thích chơi bóng bàn."
+  },
+  {
+    "word": "平时",
+    "pronunciation": "píng shí",
+    "meaning": "bình thường",
+    "example": "平时他很少运动。",
+    "example_pronunciation": "Píngshí tā hěn shǎo yùndòng.",
+    "example_translation": "Thường thì anh ấy ít khi tập thể dục."
+  },
+  {
+    "word": "破",
+    "pronunciation": "pò",
+    "meaning": "rách, nổ",
+    "example": "我的鞋子破了。",
+    "example_pronunciation": "Wǒ de xiézi pò le.",
+    "example_translation": "Giày của tôi bị rách rồi."
+  },
+  {
+    "word": "葡萄",
+    "pronunciation": "pú táo",
+    "meaning": "nho",
+    "example": "这些葡萄很好吃。",
+    "example_pronunciation": "Zhèxiē pútao hěn hǎochī.",
+    "example_translation": "Những trái nho này rất ngon."
+  },
+  {
+    "word": "普遍",
+    "pronunciation": "pǔ biàn",
+    "meaning": "phổ biến",
+    "example": "这种现象很普遍。",
+    "example_pronunciation": "Zhè zhǒng xiànxiàng hěn pǔbiàn.",
+    "example_translation": "Hiện tượng này rất phổ biến."
+  },
+  {
+    "word": "普通话",
+    "pronunciation": "pǔ tōng huà",
+    "meaning": "tiếng phổ thông",
+    "example": "他说普通话说得很好。",
+    "example_pronunciation": "Tā shuō Pǔtōnghuà shuō de hěn hǎo.",
+    "example_translation": "Anh ấy nói tiếng phổ thông rất tốt."
+  },
+  {
+    "word": "其次",
+    "pronunciation": "qí cì",
+    "meaning": "tiếp theo",
+    "example": "首先要努力，其次要坚持。",
+    "example_pronunciation": "Shǒuxiān yào nǔlì, qícì yào jiānchí.",
+    "example_translation": "Trước tiên phải nỗ lực, sau đó phải kiên trì."
+  },
+  {
+    "word": "其中",
+    "pronunciation": "qí zhōng",
+    "meaning": "trong đó",
+    "example": "在所有的人群中，其中有一个人是我认识的人。",
+    "example_pronunciation": "Zài suǒyǒu de rénqún zhōng, qízhōng yǒuyī gèrén shì wǒ rènshí de rén.",
+    "example_translation": "Trong số tất cả mọi người, có một người tôi biết."
+  },
+  {
+    "word": "气候",
+    "pronunciation": "qì hòu",
+    "meaning": "khí hậu",
+    "example": "这个地方的气候很宜人。",
+    "example_pronunciation": "Zhège dìfāng de qìhòu hěn yírén.",
+    "example_translation": "Khí hậu nơi này rất dễ chịu."
+  },
+  {
+    "word": "千万",
+    "pronunciation": "qiān wàn",
+    "meaning": "nhất thiết",
+    "example": "你千万不要忘记。",
+    "example_pronunciation": "Nǐ qiānwàn bùyào wàngjì.",
+    "example_translation": "Bạn nhất định đừng quên."
+  },
+  {
+    "word": "签证",
+    "pronunciation": "qiān zhèng",
+    "meaning": "visa",
+    "example": "我需要办理签证。",
+    "example_pronunciation": "Wǒ xūyào bànlǐ qiānzhèng.",
+    "example_translation": "Tôi cần làm thị thực."
+  },
+  {
+    "word": "敲",
+    "pronunciation": "qiāo",
+    "meaning": "gõ",
+    "example": "他敲门进来了。",
+    "example_pronunciation": "Tā qiāo mén jìn lái le.",
+    "example_translation": "Anh ấy gõ cửa rồi vào."
+  },
+  {
+    "word": "桥",
+    "pronunciation": "qiáo",
+    "meaning": "cầu",
+    "example": "他们在桥上拍照。",
+    "example_pronunciation": "Tāmen zài qiáo shàng pāizhào.",
+    "example_translation": "Họ chụp ảnh trên cầu."
+  },
+  {
+    "word": "巧克力",
+    "pronunciation": "qiǎo kè lì",
+    "meaning": "sô cô la",
+    "example": "她给了我一块巧克力。",
+    "example_pronunciation": "Tā gěi le wǒ yī kuài qiǎokèlì.",
+    "example_translation": "Cô ấy đưa cho tôi một miếng sô-cô-la."
+  },
+  {
+    "word": "亲戚",
+    "pronunciation": "qīn qi",
+    "meaning": "họ hàng",
+    "example": "我有很多亲戚住在国外。",
+    "example_pronunciation": "Wǒ yǒu hěn duō qīnqi zhù zài guówài.",
+    "example_translation": "Tôi có nhiều họ hàng sống ở nước ngoài."
+  },
+  {
+    "word": "轻",
+    "pronunciation": "qīng",
+    "meaning": "nhẹ",
+    "example": "这本书很轻。",
+    "example_pronunciation": "Zhè běn shū hěn qīng.",
+    "example_translation": "Cuốn sách này rất nhẹ."
+  },
+  {
+    "word": "轻松",
+    "pronunciation": "qīng sōng",
+    "meaning": "thoải mái",
+    "example": "他觉得工作很轻松。",
+    "example_pronunciation": "Tā juéde gōngzuò hěn qīngsōng.",
+    "example_translation": "Anh ấy cảm thấy công việc rất nhẹ nhàng."
+  },
+  {
+    "word": "情况",
+    "pronunciation": "qíng kuàng",
+    "meaning": "tình hình",
+    "example": "目前的情况很复杂。",
+    "example_pronunciation": "Mùqián de qíngkuàng hěn fùzá.",
+    "example_translation": "Tình hình hiện tại rất phức tạp."
+  },
+  {
+    "word": "穷",
+    "pronunciation": "qióng",
+    "meaning": "nghèo",
+    "example": "他家很穷。",
+    "example_pronunciation": "Tā jiā hěn qióng.",
+    "example_translation": "Gia đình anh ấy rất nghèo."
+  },
+  {
+    "word": "区别",
+    "pronunciation": "qū bié",
+    "meaning": "khác biệt",
+    "example": "这个问题有很多区别。",
+    "example_pronunciation": "Zhège wèntí yǒu hěn duō qūbié.",
+    "example_translation": "Vấn đề này có nhiều khác biệt."
+  },
+  {
+    "word": "取",
+    "pronunciation": "qǔ",
+    "meaning": "lấy",
+    "example": "请把书取出来。",
+    "example_pronunciation": "Qǐng bǎ shū qǔ chūlái.",
+    "example_translation": "Vui lòng lấy sách ra."
+  },
+  {
+    "word": "全部",
+    "pronunciation": "quán bù",
+    "meaning": "toàn bộ",
+    "example": "我们全部完成了任务。",
+    "example_pronunciation": "Wǒmen quánbù wánchéng le rènwù.",
+    "example_translation": "Chúng tôi hoàn thành toàn bộ nhiệm vụ."
+  },
+  {
+    "word": "缺点",
+    "pronunciation": "quē diǎn",
+    "meaning": "khuyết điểm",
+    "example": "他有很多缺点。",
+    "example_pronunciation": "Tā yǒu hěn duō quēdiǎn.",
+    "example_translation": "Anh ấy có nhiều khuyết điểm."
+  },
+  {
+    "word": "缺少",
+    "pronunciation": "quē shǎo",
+    "meaning": "thiếu",
+    "example": "这里缺少水。",
+    "example_pronunciation": "Zhèlǐ quēshǎo shuǐ.",
+    "example_translation": "Ở đây thiếu nước."
+  },
+  {
+    "word": "却",
+    "pronunciation": "què",
+    "meaning": "lại, nhưng",
+    "example": "他很想去，却不能去。",
+    "example_pronunciation": "Tā hěn xiǎng qù, què bùnéng qù.",
+    "example_translation": "Anh ấy rất muốn đi, nhưng không thể đi."
+  },
+  {
+    "word": "确实",
+    "pronunciation": "què shí",
+    "meaning": "thật sự",
+    "example": "这次确实是我的错。",
+    "example_pronunciation": "Zhè cì quèshí shì wǒ de cuò.",
+    "example_translation": "Lần này thật sự là lỗi của tôi."
+  },
+  {
+    "word": "然而",
+    "pronunciation": "rán ér",
+    "meaning": "vậy mà",
+    "example": "然而，他并没有成功。",
+    "example_pronunciation": "Rán'ér, tā bìng méiyǒu chénggōng.",
+    "example_translation": "Tuy nhiên, anh ấy không thành công."
+  },
+  {
+    "word": "热闹",
+    "pronunciation": "rè nào",
+    "meaning": "náo nhiệt",
+    "example": "市场很热闹。",
+    "example_pronunciation": "Shìchǎng hěn rènào.",
+    "example_translation": "Chợ rất nhộn nhịp."
+  },
+  {
+    "word": "任何",
+    "pronunciation": "rèn hé",
+    "meaning": "bất kì",
+    "example": "任何人都可以参加。",
+    "example_pronunciation": "Rènhé rén dōu kěyǐ cānjiā.",
+    "example_translation": "Bất kỳ ai cũng có thể tham gia."
+  },
+  {
+    "word": "任务",
+    "pronunciation": "rèn wù",
+    "meaning": "nhiệm vụ",
+    "example": "我们的任务是保护环境。",
+    "example_pronunciation": "Wǒmen de rènwù shì bǎohù huánjìng.",
+    "example_translation": "Nhiệm vụ của chúng tôi là bảo vệ môi trường."
+  },
+  {
+    "word": "扔",
+    "pronunciation": "rēng",
+    "meaning": "ném",
+    "example": "请不要随便扔垃圾。",
+    "example_pronunciation": "Qǐng bùyào suíbiàn rēng lājī.",
+    "example_translation": "Xin đừng vứt rác bừa bãi."
+  },
+  {
+    "word": "仍然",
+    "pronunciation": "réng rán",
+    "meaning": "vẫn",
+    "example": "他仍然在等你。",
+    "example_pronunciation": "Tā réngrán zài děng nǐ.",
+    "example_translation": "Anh ấy vẫn đang chờ bạn."
+  },
+  {
+    "word": "日记",
+    "pronunciation": "rì jì",
+    "meaning": "nhật kí",
+    "example": "我每天都写日记。",
+    "example_pronunciation": "Wǒ měitiān dōu xiě rìjì.",
+    "example_translation": "Tôi viết nhật ký mỗi ngày."
+  },
+  {
+    "word": "入口",
+    "pronunciation": "rù kǒu",
+    "meaning": "cửa vào",
+    "example": "这是超市的入口。",
+    "example_pronunciation": "Zhè shì chāoshì de rùkǒu.",
+    "example_translation": "Đây là lối vào của siêu thị."
+  },
+  {
+    "word": "散步",
+    "pronunciation": "sàn bù",
+    "meaning": "tản bộ",
+    "example": "我喜欢晚上散步。",
+    "example_pronunciation": "Wǒ xǐhuān wǎnshàng sànbù.",
+    "example_translation": "Tôi thích đi dạo buổi tối."
+  },
+  {
+    "word": "森林",
+    "pronunciation": "sēn lín",
+    "meaning": "rừng sâu",
+    "example": "森林里有很多动物。",
+    "example_pronunciation": "Sēnlín lǐ yǒu hěn duō dòngwù.",
+    "example_translation": "Trong rừng có rất nhiều động vật."
+  },
+  {
+    "word": "沙发",
+    "pronunciation": "shā fā",
+    "meaning": "ghế sô pha",
+    "example": "我家有一张沙发。",
+    "example_pronunciation": "Wǒ jiā yǒu yī zhāng shāfā.",
+    "example_translation": "Nhà tôi có một chiếc ghế sofa."
+  },
+  {
+    "word": "伤心",
+    "pronunciation": "shāng xīn",
+    "meaning": "tổn thương",
+    "example": "他听到这个消息很伤心。",
+    "example_pronunciation": "Tā tīngdào zhège xiāoxi hěn shāngxīn.",
+    "example_translation": "Anh ấy rất đau lòng khi nghe tin này."
+  },
+  {
+    "word": "商量",
+    "pronunciation": "shāng liáng",
+    "meaning": "thương lượng, bàn bạc",
+    "example": "我们需要商量一下计划。",
+    "example_pronunciation": "Wǒmen xūyào shāngliáng yīxià jìhuà.",
+    "example_translation": "Chúng ta cần thảo luận kế hoạch một chút."
+  },
+  {
+    "word": "稍微",
+    "pronunciation": "shāo wēi",
+    "meaning": "một chút",
+    "example": "你稍微等一下。",
+    "example_pronunciation": "Nǐ shāowēi děng yīxià.",
+    "example_translation": "Bạn đợi một chút."
+  },
+  {
+    "word": "勺子",
+    "pronunciation": "sháo zi",
+    "meaning": "cái thìa",
+    "example": "请给我一把勺子。",
+    "example_pronunciation": "Qǐng gěi wǒ yī bǎ sháozi.",
+    "example_translation": "Vui lòng đưa tôi một cái muỗng."
+  },
+  {
+    "word": "社会",
+    "pronunciation": "shè huì",
+    "meaning": "xã hội",
+    "example": "这个社会变化很快。",
+    "example_pronunciation": "Zhège shèhuì biànhuà hěn kuài.",
+    "example_translation": "Xã hội này thay đổi rất nhanh."
+  },
+  {
+    "word": "申请",
+    "pronunciation": "shēn qǐng",
+    "meaning": "xin",
+    "example": "我申请了一个新工作。",
+    "example_pronunciation": "Wǒ shēnqǐng le yī ge xīn gōngzuò.",
+    "example_translation": "Tôi đã nộp đơn xin một công việc mới."
+  },
+  {
+    "word": "深",
+    "pronunciation": "shēn",
+    "meaning": "sâu",
+    "example": "湖水很深。",
+    "example_pronunciation": "Húshuǐ hěn shēn.",
+    "example_translation": "Nước hồ rất sâu."
+  },
+  {
+    "word": "甚至",
+    "pronunciation": "shèn zhì",
+    "meaning": "thậm chí",
+    "example": "他甚至不知道我的名字。",
+    "example_pronunciation": "Tā shènzhì bù zhīdào wǒ de míngzì.",
+    "example_translation": "Anh ấy thậm chí không biết tên tôi."
+  },
+  {
+    "word": "生活",
+    "pronunciation": "shēng huó",
+    "meaning": "cuộc sống",
+    "example": "我们的生活很幸福。",
+    "example_pronunciation": "Wǒmen de shēnghuó hěn xìngfú.",
+    "example_translation": "Cuộc sống của chúng tôi rất hạnh phúc."
+  },
+  {
+    "word": "生命",
+    "pronunciation": "shēng mìng",
+    "meaning": "tính mạng",
+    "example": "生命很宝贵。",
+    "example_pronunciation": "Shēngmìng hěn bǎoguì.",
+    "example_translation": "Sinh mệnh rất quý giá."
+  },
+  {
+    "word": "生意",
+    "pronunciation": "shēng yì",
+    "meaning": "kinh doanh",
+    "example": "他的生意做得很好。",
+    "example_pronunciation": "Tā de shēngyì zuò de hěn hǎo.",
+    "example_translation": "Việc kinh doanh của anh ấy rất tốt."
+  },
+  {
+    "word": "省",
+    "pronunciation": "shěng",
+    "meaning": "tỉnh thành",
+    "example": "我们住在北江省。",
+    "example_pronunciation": "Wǒmen zhù zài běijiāng shěng.",
+    "example_translation": "Chúng tôi sống ở tỉnh Bắc Giang"
+  },
+  {
+    "word": "剩",
+    "pronunciation": "shèng",
+    "meaning": "thừa",
+    "example": "剩下的路程只能靠我们自己了。",
+    "example_pronunciation": "Shèng xià de lùchéng zhǐ néng kào wǒmen zìjǐ le.",
+    "example_translation": "Phần còn lại của hành trình chỉ có thể dựa vào bản thân chúng ta."
+  },
+  {
+    "word": "失败",
+    "pronunciation": "shī bài",
+    "meaning": "thất bại",
+    "example": "他没有失败过。",
+    "example_pronunciation": "Tā méiyǒu shībài guò.",
+    "example_translation": "Anh ấy chưa từng thất bại."
+  },
+  {
+    "word": "失望",
+    "pronunciation": "shī wàng",
+    "meaning": "thất vọng",
+    "example": "结果让我很失望。",
+    "example_pronunciation": "Jiéguǒ ràng wǒ hěn shīwàng.",
+    "example_translation": "Kết quả làm tôi rất thất vọng."
+  },
+  {
+    "word": "师傅",
+    "pronunciation": "shī fù",
+    "meaning": "sư phụ",
+    "example": "师傅，请教我开车。",
+    "example_pronunciation": "Shīfù, qǐng jiāo wǒ kāichē.",
+    "example_translation": "Thầy, xin dạy tôi lái xe."
+  },
+  {
+    "word": "十分",
+    "pronunciation": "shí fēn",
+    "meaning": "vô cùng",
+    "example": "他十分聪明。",
+    "example_pronunciation": "Tā shífēn cōngmíng.",
+    "example_translation": "Anh ấy rất thông minh."
+  },
+  {
+    "word": "实际",
+    "pronunciation": "shí jì",
+    "meaning": "thực tế",
+    "example": "他的建议很实际。",
+    "example_pronunciation": "Tā de jiànyì hěn shíjì.",
+    "example_translation": "Lời khuyên của anh ấy rất thực tế."
+  },
+  {
+    "word": "实在",
+    "pronunciation": "shí zài",
+    "meaning": "thật sự",
+    "example": "这个故事实在太感人了。",
+    "example_pronunciation": "Zhège gùshì shízài tài gǎnrén le.",
+    "example_translation": "Câu chuyện này thật sự rất cảm động."
+  },
+  {
+    "word": "使",
+    "pronunciation": "shǐ",
+    "meaning": "khiến cho",
+    "example": "她的表现使观众们非常兴奋。",
+    "example_pronunciation": "Tā de biǎoxiàn shǐ guānzhòngmen fēicháng xīngfèn.",
+    "example_translation": "Màn trình diễn của cô khiến khán giả vô cùng hưng phấn."
+  },
+  {
+    "word": "使用",
+    "pronunciation": "shǐ yòng",
+    "meaning": "sử dụng",
+    "example": "请不要随便使用别人的东西。",
+    "example_pronunciation": "Qǐng bùyào suíbiàn shǐyòng biérén de dōngxī.",
+    "example_translation": "Xin đừng tùy tiện sử dụng đồ của người khác."
+  },
+  {
+    "word": "世纪",
+    "pronunciation": "shì jì",
+    "meaning": "thế kỉ",
+    "example": "这是二十一世纪的科技。",
+    "example_pronunciation": "Zhè shì èrshíyī shìjì de kējì.",
+    "example_translation": "Đây là công nghệ của thế kỷ 21."
+  },
+  {
+    "word": "是否",
+    "pronunciation": "shì fǒu",
+    "meaning": "liệu có phải",
+    "example": "他是否同意还不确定。",
+    "example_pronunciation": "Tā shìfǒu tóngyì hái bù quèdìng.",
+    "example_translation": "Anh ấy có đồng ý hay không còn chưa chắc chắn."
+  },
+  {
+    "word": "适合",
+    "pronunciation": "shì hé",
+    "meaning": "thích hợp",
+    "example": "这件衣服适合你。",
+    "example_pronunciation": "Zhè jiàn yīfú shìhé nǐ.",
+    "example_translation": "Cái áo này hợp với bạn."
+  },
+  {
+    "word": "适应",
+    "pronunciation": "shì yìng",
+    "meaning": "thích nghi",
+    "example": "他适应了新的环境。",
+    "example_pronunciation": "Tā shìyìng le xīn de huánjìng.",
+    "example_translation": "Anh ấy đã thích nghi với môi trường mới."
+  },
+  {
+    "word": "收",
+    "pronunciation": "shōu",
+    "meaning": "nhận",
+    "example": "请收这个包裹。",
+    "example_pronunciation": "Qǐng shōu zhège bāoguǒ.",
+    "example_translation": "Xin nhận cái gói hàng này."
+  },
+  {
+    "word": "收入",
+    "pronunciation": "shōu rù",
+    "meaning": "thu nhập",
+    "example": "他的收入很高。",
+    "example_pronunciation": "Tā de shōurù hěn gāo.",
+    "example_translation": "Thu nhập của anh ấy rất cao."
+  },
+  {
+    "word": "收拾",
+    "pronunciation": "shōu shí",
+    "meaning": "dọn dẹp",
+    "example": "请把房间收拾干净。",
+    "example_pronunciation": "Qǐng bǎ fángjiān shōushi gānjìng.",
+    "example_translation": "Xin dọn phòng sạch sẽ."
+  },
+  {
+    "word": "首都",
+    "pronunciation": "shǒu dū",
+    "meaning": "thủ đô",
+    "example": "北京是中国的首都。",
+    "example_pronunciation": "Běijīng shì Zhōngguó de shǒudū.",
+    "example_translation": "Bắc Kinh là thủ đô của Trung Quốc."
+  },
+  {
+    "word": "首先",
+    "pronunciation": "shǒu xiān",
+    "meaning": "đầu tiên",
+    "example": "首先要学习，其次要实践。",
+    "example_pronunciation": "Shǒuxiān yào xuéxí, qícì yào shíjiàn.",
+    "example_translation": "Trước tiên phải học, sau đó phải thực hành."
+  },
+  {
+    "word": "受不了",
+    "pronunciation": "shòu bù liǎo",
+    "meaning": "không chịu nổi",
+    "example": "我受不了这么热的天气。",
+    "example_pronunciation": "Wǒ shòubùliǎo zhème rè de tiānqì.",
+    "example_translation": "Tôi không chịu nổi thời tiết nóng như thế này."
+  },
+  {
+    "word": "受到",
+    "pronunciation": "shòu dào",
+    "meaning": "nhận được",
+    "example": "我受到了一封信。",
+    "example_pronunciation": "Wǒ shòudào le yī fēng xìn.",
+    "example_translation": "Tôi nhận được một lá thư."
+  },
+  {
+    "word": "售货员",
+    "pronunciation": "shòu huò yuán",
+    "meaning": "nhân viên bán vé",
+    "example": "售货员向我介绍了这款手机。",
+    "example_pronunciation": "Shòuhuòyuán xiàng wǒ jièshào le zhè kuǎn shǒujī.",
+    "example_translation": "Người bán hàng giới thiệu cho tôi mẫu điện thoại này."
+  },
+  {
+    "word": "输",
+    "pronunciation": "shū",
+    "meaning": "thua",
+    "example": "我们输了比赛。",
+    "example_pronunciation": "Wǒmen shū le bǐsài.",
+    "example_translation": "Chúng tôi thua trận đấu."
+  },
+  {
+    "word": "熟悉",
+    "pronunciation": "shú xī",
+    "meaning": "quen thuộc",
+    "example": "我对这儿很熟悉。",
+    "example_pronunciation": "Wǒ duì zhèr hěn shúxī.",
+    "example_translation": "Tôi rất quen thuộc với nơi này."
+  },
+  {
+    "word": "数量",
+    "pronunciation": "shù liàng",
+    "meaning": "số lượng",
+    "example": "这里的学生数量很多。",
+    "example_pronunciation": "Zhèlǐ de xuéshēng shùliàng hěn duō.",
+    "example_translation": "Số lượng học sinh ở đây rất nhiều."
+  },
+  {
+    "word": "数字",
+    "pronunciation": "shù zi",
+    "meaning": "con cố",
+    "example": "这个数字很大。",
+    "example_pronunciation": "Zhège shùzì hěn dà.",
+    "example_translation": "Con số này rất lớn."
+  },
+  {
+    "word": "帅",
+    "pronunciation": "shuài",
+    "meaning": "đẹp trai",
+    "example": "他很帅。",
+    "example_pronunciation": "Tā hěn shuài.",
+    "example_translation": "Anh ấy rất đẹp trai."
+  },
+  {
+    "word": "顺便",
+    "pronunciation": "shùn biàn",
+    "meaning": "nhân tiện",
+    "example": "我顺便买了些水果。",
+    "example_pronunciation": "Wǒ shùnbiàn mǎi le xiē shuǐguǒ.",
+    "example_translation": "Tôi tiện thể mua một ít hoa quả."
+  },
+  {
+    "word": "顺利",
+    "pronunciation": "shùn lì",
+    "meaning": "thuận lợi",
+    "example": "事情进行得很顺利。",
+    "example_pronunciation": "Shìqíng jìnxíng de hěn shùnlì.",
+    "example_translation": "Mọi việc tiến hành rất thuận lợi."
+  },
+  {
+    "word": "顺序",
+    "pronunciation": "shùn xù",
+    "meaning": "thứ tự",
+    "example": "请按顺序排队。",
+    "example_pronunciation": "Qǐng àn shùnxù páiduì.",
+    "example_translation": "Vui lòng xếp hàng theo thứ tự."
+  },
+  {
+    "word": "说明",
+    "pronunciation": "shuō míng",
+    "meaning": "nói rõ",
+    "example": "请说明一下原因。",
+    "example_pronunciation": "Qǐng shuōmíng yīxià yuányīn.",
+    "example_translation": "Xin hãy giải thích lý do."
+  },
+  {
+    "word": "硕士",
+    "pronunciation": "shuò shì",
+    "meaning": "thạc sĩ",
+    "example": "他是硕士毕业。",
+    "example_pronunciation": "Tā shì shuòshì bìyè.",
+    "example_translation": "Anh ấy tốt nghiệp thạc sĩ."
+  },
+  {
+    "word": "死",
+    "pronunciation": "sǐ",
+    "meaning": "chết",
+    "example": "他突然死了。",
+    "example_pronunciation": "Tā tūrán sǐ le.",
+    "example_translation": "Anh ấy đột nhiên qua đời."
+  },
+  {
+    "word": "速度",
+    "pronunciation": "sù dù",
+    "meaning": "tốc độ",
+    "example": "请提高速度。",
+    "example_pronunciation": "Qǐng tígāo sùdù.",
+    "example_translation": "Xin hãy tăng tốc độ."
+  },
+  {
+    "word": "塑料袋",
+    "pronunciation": "sù liào dài",
+    "meaning": "túi ni lông",
+    "example": "请不要使用塑料袋。",
+    "example_pronunciation": "Qǐng bùyào shǐyòng sùliào dài.",
+    "example_translation": "Xin đừng sử dụng túi nhựa."
+  },
+  {
+    "word": "酸",
+    "pronunciation": "suān",
+    "meaning": "chua",
+    "example": "这道菜有点酸。",
+    "example_pronunciation": "Zhè dào cài yǒudiǎn suān.",
+    "example_translation": "Món này hơi chua."
+  },
+  {
+    "word": "随便",
+    "pronunciation": "suí biàn",
+    "meaning": "tùy tiện, tự nhiên",
+    "example": "请随便坐。",
+    "example_pronunciation": "Qǐng suíbiàn zuò.",
+    "example_translation": "Xin cứ ngồi tự nhiên."
+  },
+  {
+    "word": "随着",
+    "pronunciation": "suí zhe",
+    "meaning": "cùng với",
+    "example": "随着时间的流逝，他变得成熟了。",
+    "example_pronunciation": "Suízhe shíjiān de liúshì, tā biàn dé chéngshú le.",
+    "example_translation": "Theo thời gian trôi qua, anh ấy trở nên chín chắn."
+  },
+  {
+    "word": "孙子",
+    "pronunciation": "sūn zi",
+    "meaning": "cháu trai",
+    "example": "我有两个孙子。",
+    "example_pronunciation": "Wǒ yǒu liǎng gè sūnzi.",
+    "example_translation": "Tôi có hai cháu trai."
+  },
+  {
+    "word": "所有",
+    "pronunciation": "suǒ yǒu",
+    "meaning": "tất cả",
+    "example": "所有的人都来了。",
+    "example_pronunciation": "Suǒyǒu de rén dōu lái le.",
+    "example_translation": "Mọi người đều đã đến."
+  },
+  {
+    "word": "台",
+    "pronunciation": "tái",
+    "meaning": "cái, chiếc",
+    "example": "他站在台上。",
+    "example_pronunciation": "Tā zhàn zài tái shàng.",
+    "example_translation": "Anh ấy đứng trên sân khấu."
+  },
+  {
+    "word": "抬",
+    "pronunciation": "tái",
+    "meaning": "ngẩng",
+    "example": "请抬一下这个箱子。",
+    "example_pronunciation": "Qǐng tái yīxià zhège xiāngzi.",
+    "example_translation": "Xin hãy nâng cái hộp này lên một chút."
+  },
+  {
+    "word": "态度",
+    "pronunciation": "tài dù",
+    "meaning": "thái độ",
+    "example": "他的态度很不好。",
+    "example_pronunciation": "Tā de tàidù hěn bù hǎo.",
+    "example_translation": "Thái độ của anh ấy rất tệ."
+  },
+  {
+    "word": "谈",
+    "pronunciation": "tán",
+    "meaning": "nói chuyện",
+    "example": "我们谈了很多事情。",
+    "example_pronunciation": "Wǒmen tán le hěn duō shìqíng.",
+    "example_translation": "Chúng tôi đã nói về rất nhiều chuyện."
+  },
+  {
+    "word": "弹钢琴",
+    "pronunciation": "tán gāng qín",
+    "meaning": "chơi piano",
+    "example": "她会弹钢琴。",
+    "example_pronunciation": "Tā huì tán gāngqín.",
+    "example_translation": "Cô ấy biết chơi piano."
+  },
+  {
+    "word": "汤",
+    "pronunciation": "tāng",
+    "meaning": "canh",
+    "example": "我喜欢喝鸡汤。",
+    "example_pronunciation": "Wǒ xǐhuān hē jītāng.",
+    "example_translation": "Tôi thích uống súp gà."
+  },
+  {
+    "word": "糖",
+    "pronunciation": "táng",
+    "meaning": "đường",
+    "example": "我不喜欢吃太多糖。",
+    "example_pronunciation": "Wǒ bù xǐhuān chī tài duō táng.",
+    "example_translation": "Tôi không thích ăn quá nhiều đường."
+  },
+  {
+    "word": "躺",
+    "pronunciation": "tǎng",
+    "meaning": "nằm",
+    "example": "我喜欢躺在沙发上看书。",
+    "example_pronunciation": "Wǒ xǐhuān tǎng zài shāfā shàng kàn shū.",
+    "example_translation": "Tôi thích nằm trên ghế sofa đọc sách."
+  },
+  {
+    "word": "趟",
+    "pronunciation": "tàng",
+    "meaning": "chuyến",
+    "example": "我刚刚去了一趟商店。",
+    "example_pronunciation": "Wǒ gānggāng qù le yī tàng shāngdiàn.",
+    "example_translation": "Tôi vừa đi một chuyến đến cửa hàng."
+  },
+  {
+    "word": "讨论",
+    "pronunciation": "tǎo lùn",
+    "meaning": "thảo luận",
+    "example": "我们在会议上讨论了这个问题。",
+    "example_pronunciation": "Wǒmen zài huìyì shàng tǎolùn le zhège wèntí.",
+    "example_translation": "Chúng tôi đã thảo luận về vấn đề này trong cuộc họp."
+  },
+  {
+    "word": "讨厌",
+    "pronunciation": "tǎo yàn",
+    "meaning": "ghét",
+    "example": "我讨厌吃苦瓜。",
+    "example_pronunciation": "Wǒ tǎoyàn chī kǔguā.",
+    "example_translation": "Tôi ghét ăn mướp đắng."
+  },
+  {
+    "word": "特点",
+    "pronunciation": "tè diǎn",
+    "meaning": "đặc điểm",
+    "example": "这个产品的特点是什么？",
+    "example_pronunciation": "Zhège chǎnpǐn de tèdiǎn shì shénme?",
+    "example_translation": "Đặc điểm của sản phẩm này là gì?"
+  },
+  {
+    "word": "提",
+    "pronunciation": "tí",
+    "meaning": "đề ra",
+    "example": "请提一些建议。",
+    "example_pronunciation": "Qǐng tí yīxiē jiànyì.",
+    "example_translation": "Xin hãy đưa ra một vài gợi ý."
+  },
+  {
+    "word": "提供",
+    "pronunciation": "tí gōng",
+    "meaning": "cung cấp",
+    "example": "我们提供免费早餐。",
+    "example_pronunciation": "Wǒmen tígōng miǎnfèi zǎocān.",
+    "example_translation": "Chúng tôi cung cấp bữa sáng miễn phí."
+  },
+  {
+    "word": "提前",
+    "pronunciation": "tí qián",
+    "meaning": "trước thời hạn",
+    "example": "请提前告诉我。",
+    "example_pronunciation": "Qǐng tíqián gàosù wǒ.",
+    "example_translation": "Xin hãy cho tôi biết trước."
+  },
+  {
+    "word": "提醒",
+    "pronunciation": "tí xǐng",
+    "meaning": "nhắc nhở",
+    "example": "他提醒我明天开会。",
+    "example_pronunciation": "Tā tíxǐng wǒ míngtiān kāihuì.",
+    "example_translation": "Anh ấy nhắc tôi rằng ngày mai họp."
+  },
+  {
+    "word": "填空",
+    "pronunciation": "tián kòng",
+    "meaning": "điền trống",
+    "example": "请在填空处写上答案。",
+    "example_pronunciation": "Qǐng zài tiánkòng chù xiě shàng dá'àn.",
+    "example_translation": "Xin hãy điền câu trả lời vào chỗ trống."
+  },
+  {
+    "word": "条件",
+    "pronunciation": "tiáo jiàn",
+    "meaning": "điều kiện",
+    "example": "这个工作条件很好。",
+    "example_pronunciation": "Zhège gōngzuò tiáojiàn hěn hǎo.",
+    "example_translation": "Điều kiện công việc này rất tốt."
+  },
+  {
+    "word": "停",
+    "pronunciation": "tíng",
+    "meaning": "dừng",
+    "example": "请停车。",
+    "example_pronunciation": "Qǐng tíng chē.",
+    "example_translation": "Xin dừng xe."
+  },
+  {
+    "word": "挺",
+    "pronunciation": "tǐng",
+    "meaning": "rất",
+    "example": "他挺高的。",
+    "example_pronunciation": "Tā tǐng gāo de.",
+    "example_translation": "Anh ấy khá cao."
+  },
+  {
+    "word": "通过",
+    "pronunciation": "tōng guò",
+    "meaning": "thông qua",
+    "example": "我通过了考试。",
+    "example_pronunciation": "Wǒ tōngguò le kǎoshì.",
+    "example_translation": "Tôi đã qua kỳ thi."
+  },
+  {
+    "word": "通知",
+    "pronunciation": "tōng zhī",
+    "meaning": "thông báo",
+    "example": "请通知大家明天的会议。",
+    "example_pronunciation": "Qǐng tōngzhī dàjiā míngtiān de huìyì.",
+    "example_translation": "Xin thông báo với mọi người về cuộc họp ngày mai."
+  },
+  {
+    "word": "同情",
+    "pronunciation": "tóng qíng",
+    "meaning": "đồng tình",
+    "example": "我们都很同情他。",
+    "example_pronunciation": "Wǒmen dōu hěn tóngqíng tā.",
+    "example_translation": "Chúng tôi đều rất đồng cảm với anh ấy."
+  },
+  {
+    "word": "同时",
+    "pronunciation": "tóng shí",
+    "meaning": "đồng thời",
+    "example": "他同时做两份工作。",
+    "example_pronunciation": "Tā tóngshí zuò liǎng fèn gōngzuò.",
+    "example_translation": "Anh ấy làm hai công việc cùng một lúc."
+  },
+  {
+    "word": "推",
+    "pronunciation": "tuī",
+    "meaning": "đẩy",
+    "example": "请帮我推一下门。",
+    "example_pronunciation": "Qǐng bāng wǒ tuī yīxià mén.",
+    "example_translation": "Xin hãy giúp tôi đẩy cửa."
+  },
+  {
+    "word": "推迟",
+    "pronunciation": "tuī chí",
+    "meaning": "kéo dài thời gian",
+    "example": "会议推迟到明天。",
+    "example_pronunciation": "Huìyì tuīchí dào míngtiān.",
+    "example_translation": "Cuộc họp bị hoãn đến ngày mai."
+  },
+  {
+    "word": "脱",
+    "pronunciation": "tuō",
+    "meaning": "cởi",
+    "example": "请脱下你的外套。",
+    "example_pronunciation": "Qǐng tuō xià nǐ de wàitào.",
+    "example_translation": "Xin cởi áo khoác ra."
+  },
+  {
+    "word": "袜子",
+    "pronunciation": "wà zi",
+    "meaning": "tất chân",
+    "example": "我需要一双新的袜子。",
+    "example_pronunciation": "Wǒ xūyào yī shuāng xīn de wàzi.",
+    "example_translation": "Tôi cần một đôi tất mới."
+  },
+  {
+    "word": "完全",
+    "pronunciation": "wán quán",
+    "meaning": "hoàn toàn",
+    "example": "我完全同意你的看法。",
+    "example_pronunciation": "Wǒ wánquán tóngyì nǐ de kànfǎ.",
+    "example_translation": "Tôi hoàn toàn đồng ý với quan điểm của bạn."
+  },
+  {
+    "word": "网球",
+    "pronunciation": "wǎng qiú",
+    "meaning": "tennis",
+    "example": "我喜欢打网球。",
+    "example_pronunciation": "Wǒ xǐhuān dǎ wǎngqiú.",
+    "example_translation": "Tôi thích chơi tennis."
+  },
+  {
+    "word": "网站",
+    "pronunciation": "wǎng zhàn",
+    "meaning": "trang mạng",
+    "example": "这个网站很好用。",
+    "example_pronunciation": "Zhège wǎngzhàn hěn hǎo yòng.",
+    "example_translation": "Trang web này rất hữu ích."
+  },
+  {
+    "word": "往往",
+    "pronunciation": "wǎng wǎng",
+    "meaning": "thường (quá khứ)",
+    "example": "他往往迟到。",
+    "example_pronunciation": "Tā wǎngwǎng chídào.",
+    "example_translation": "Anh ấy thường xuyên đến muộn."
+  },
+  {
+    "word": "危险",
+    "pronunciation": "wēi xiǎn",
+    "meaning": "nguy hiểm",
+    "example": "小心，这里很危险。",
+    "example_pronunciation": "Xiǎoxīn, zhèlǐ hěn wēixiǎn.",
+    "example_translation": "Cẩn thận, chỗ này rất nguy hiểm."
+  },
+  {
+    "word": "卫生间",
+    "pronunciation": "wèi shēng jiān",
+    "meaning": "phòng vệ sinh",
+    "example": "卫生间在哪里？",
+    "example_pronunciation": "Wèishēngjiān zài nǎlǐ?",
+    "example_translation": "Nhà vệ sinh ở đâu?"
+  },
+  {
+    "word": "味道",
+    "pronunciation": "wèi dào",
+    "meaning": "mùi vị",
+    "example": "这个菜的味道很好。",
+    "example_pronunciation": "Zhège cài de wèidào hěn hǎo.",
+    "example_translation": "Món này có hương vị rất ngon."
+  },
+  {
+    "word": "温度",
+    "pronunciation": "wēn dù",
+    "meaning": "nhiệt độ",
+    "example": "今天的温度很高。",
+    "example_pronunciation": "Jīntiān de wēndù hěn gāo.",
+    "example_translation": "Nhiệt độ hôm nay rất cao."
+  },
+  {
+    "word": "文章",
+    "pronunciation": "wén zhāng",
+    "meaning": "bài văn",
+    "example": "这篇文章写得很好。",
+    "example_pronunciation": "Zhè piān wénzhāng xiě de hěn hǎo.",
+    "example_translation": "Bài viết này được viết rất hay."
+  },
+  {
+    "word": "污染",
+    "pronunciation": "wū rǎn",
+    "meaning": "ô nhiễm",
+    "example": "这里的污染很严重。",
+    "example_pronunciation": "Zhèlǐ de wūrǎn hěn yánzhòng.",
+    "example_translation": "Ô nhiễm ở đây rất nghiêm trọng."
+  },
+  {
+    "word": "无",
+    "pronunciation": "wú",
+    "meaning": "không",
+    "example": "他无话可说。",
+    "example_pronunciation": "Tā wú huà kě shuō.",
+    "example_translation": "Anh ấy không biết nói gì."
+  },
+  {
+    "word": "无聊",
+    "pronunciation": "wú liáo",
+    "meaning": "nhàm chán",
+    "example": "这本书很无聊。",
+    "example_pronunciation": "Zhè běn shū hěn wúliáo.",
+    "example_translation": "Cuốn sách này rất nhàm chán."
+  },
+  {
+    "word": "无论",
+    "pronunciation": "wú lùn",
+    "meaning": "bất luận",
+    "example": "无论天气如何，我们都去。",
+    "example_pronunciation": "Wúlùn tiānqì rúhé, wǒmen dōu qù.",
+    "example_translation": "Bất kể thời tiết thế nào, chúng tôi đều đi."
+  },
+  {
+    "word": "误会",
+    "pronunciation": "wù huì",
+    "meaning": "hiểu lầm",
+    "example": "我误会了他的意思。",
+    "example_pronunciation": "Wǒ wùhuì le tā de yìsi.",
+    "example_translation": "Tôi đã hiểu lầm ý của anh ấy."
+  },
+  {
+    "word": "西红柿",
+    "pronunciation": "xī hóng shì",
+    "meaning": "cà chua",
+    "example": "我喜欢吃西红柿。",
+    "example_pronunciation": "Wǒ xǐhuān chī xīhóngshì.",
+    "example_translation": "Tôi thích ăn cà chua."
+  },
+  {
+    "word": "吸引",
+    "pronunciation": "xī yǐn",
+    "meaning": "thu hút",
+    "example": "他的表演吸引了很多人。",
+    "example_pronunciation": "Tā de biǎoyǎn xīyǐn le hěn duō rén.",
+    "example_translation": "Màn biểu diễn của anh ấy thu hút rất nhiều người."
+  },
+  {
+    "word": "咸",
+    "pronunciation": "xián",
+    "meaning": "mặn",
+    "example": "这个菜有点咸。",
+    "example_pronunciation": "Zhège cài yǒudiǎn xián.",
+    "example_translation": "Món này hơi mặn."
+  },
+  {
+    "word": "现金",
+    "pronunciation": "xiàn jīn",
+    "meaning": "tiền mặt",
+    "example": "请用现金付款。",
+    "example_pronunciation": "Qǐng yòng xiànjīn fùkuǎn.",
+    "example_translation": "Vui lòng thanh toán bằng tiền mặt."
+  },
+  {
+    "word": "羡慕",
+    "pronunciation": "xiàn mù",
+    "meaning": "ngưỡng mộ",
+    "example": "我羡慕他的生活。",
+    "example_pronunciation": "Wǒ xiànmù tā de shēnghuó.",
+    "example_translation": "Tôi ngưỡng mộ cuộc sống của anh ấy."
+  },
+  {
+    "word": "相反",
+    "pronunciation": "xiāng fǎn",
+    "meaning": "ngược lại",
+    "example": "他的意见和我的相反。",
+    "example_pronunciation": "Tā de yìjiàn hé wǒ de xiāngfǎn.",
+    "example_translation": "Ý kiến của anh ấy trái ngược với của tôi."
+  },
+  {
+    "word": "相同",
+    "pronunciation": "xiāng tóng",
+    "meaning": "giống nhau",
+    "example": "他们有相同的爱好。",
+    "example_pronunciation": "Tāmen yǒu xiāngtóng de àihào.",
+    "example_translation": "Họ có cùng sở thích."
+  },
+  {
+    "word": "香",
+    "pronunciation": "xiāng",
+    "meaning": "thơm",
+    "example": "这朵花很香。",
+    "example_pronunciation": "Zhè duǒ huā hěn xiāng.",
+    "example_translation": "Bông hoa này rất thơm."
+  },
+  {
+    "word": "详细",
+    "pronunciation": "xiáng xì",
+    "meaning": "tỉ mỉ",
+    "example": "他给我详细地解释了这个问题。",
+    "example_pronunciation": "Tā gěi wǒ xiángxì de jiěshì le zhège wèntí.",
+    "example_translation": "Anh ấy giải thích chi tiết vấn đề này cho tôi."
+  },
+  {
+    "word": "响",
+    "pronunciation": "xiǎng",
+    "meaning": "kêu",
+    "example": "门铃响了。",
+    "example_pronunciation": "Ménlíng xiǎng le.",
+    "example_translation": "Chuông cửa reo."
+  },
+  {
+    "word": "橡皮",
+    "pronunciation": "xiàng pí",
+    "meaning": "cục tẩy",
+    "example": "我需要一块橡皮。",
+    "example_pronunciation": "Wǒ xūyào yī kuài xiàngpí.",
+    "example_translation": "Tôi cần một cục tẩy."
+  },
+  {
+    "word": "消息",
+    "pronunciation": "xiāo xi",
+    "meaning": "thông tin, tin",
+    "example": "你听到了什么消息？",
+    "example_pronunciation": "Nǐ tīngdào le shénme xiāoxi?",
+    "example_translation": "Bạn nghe thấy tin tức gì?"
+  },
+  {
+    "word": "小吃",
+    "pronunciation": "xiǎo chī",
+    "meaning": "đồ ăn vặt",
+    "example": "北京的小吃很有名。",
+    "example_pronunciation": "Běijīng de xiǎochī hěn yǒumíng.",
+    "example_translation": "Đồ ăn vặt Bắc Kinh rất nổi tiếng."
+  },
+  {
+    "word": "小伙子",
+    "pronunciation": "xiǎo huǒ zi",
+    "meaning": "anh chàng",
+    "example": "他是一个很勤快的小伙子。",
+    "example_pronunciation": "Tā shì yīgè hěn qínkuài de xiǎohuǒzi.",
+    "example_translation": "Anh ấy là một chàng trai rất chăm chỉ."
+  },
+  {
+    "word": "小说",
+    "pronunciation": "xiǎo shuō",
+    "meaning": "tiểu thuyết",
+    "example": "这本小说很有意思。",
+    "example_pronunciation": "Zhè běn xiǎoshuō hěn yǒu yìsi.",
+    "example_translation": "Cuốn tiểu thuyết này rất thú vị."
+  },
+  {
+    "word": "笑话",
+    "pronunciation": "xiào huà",
+    "meaning": "truyện cười",
+    "example": "你的笑话很好笑。",
+    "example_pronunciation": "Nǐ de xiàohuà hěn hǎo xiào.",
+    "example_translation": "Truyện cười của bạn rất buồn cười."
+  },
+  {
+    "word": "效果",
+    "pronunciation": "xiào guǒ",
+    "meaning": "hiệu quả",
+    "example": "新政策的效果很好。",
+    "example_pronunciation": "Xīn zhèngcè de xiàoguǒ hěn hǎo.",
+    "example_translation": "Hiệu quả của chính sách mới rất tốt."
+  },
+  {
+    "word": "心情",
+    "pronunciation": "xīn qíng",
+    "meaning": "tâm trạng",
+    "example": "我的心情很好。",
+    "example_pronunciation": "Wǒ de xīnqíng hěn hǎo.",
+    "example_translation": "Tâm trạng của tôi rất tốt."
+  },
+  {
+    "word": "辛苦",
+    "pronunciation": "xīn kǔ",
+    "meaning": "vất vả",
+    "example": "工作很辛苦，但很值得。",
+    "example_pronunciation": "Gōngzuò hěn xīnkǔ, dàn hěn zhídé.",
+    "example_translation": "Công việc rất vất vả nhưng rất đáng."
+  },
+  {
+    "word": "信封",
+    "pronunciation": "xìn fēng",
+    "meaning": "bức thư",
+    "example": "我需要一个信封。",
+    "example_pronunciation": "Wǒ xūyào yī gè xìnfēng.",
+    "example_translation": "Tôi cần một cái phong bì."
+  },
+  {
+    "word": "信息",
+    "pronunciation": "xìn xī",
+    "meaning": "thông tin",
+    "example": "我们需要更多的信息。",
+    "example_pronunciation": "Wǒmen xūyào gèng duō de xìnxī.",
+    "example_translation": "Chúng tôi cần thêm thông tin."
+  },
+  {
+    "word": "信心",
+    "pronunciation": "xìn xīn",
+    "meaning": "niềm tin",
+    "example": "我对自己有信心。",
+    "example_pronunciation": "Wǒ duì zìjǐ yǒu xìnxīn.",
+    "example_translation": "Tôi có tự tin vào bản thân."
+  },
+  {
+    "word": "兴奋",
+    "pronunciation": "xīng fèn",
+    "meaning": "hưng phấn, hứng khởi",
+    "example": "见到你，我很兴奋。",
+    "example_pronunciation": "jiàn dào nǐ, wǒ hěn xīngfèn.",
+    "example_translation": "Tôi rất phấn khích khi gặp bạn."
+  },
+  {
+    "word": "行",
+    "pronunciation": "xíng",
+    "meaning": "được",
+    "example": "这条路,行吗？",
+    "example_pronunciation": "Zhè tiáo lù, xíng ma?",
+    "example_translation": "Con đường này được không?"
+  },
+  {
+    "word": "醒",
+    "pronunciation": "xǐng",
+    "meaning": "tỉnh",
+    "example": "他醒了。",
+    "example_pronunciation": "Tā xǐng le.",
+    "example_translation": "Anh ấy đã tỉnh dậy."
+  },
+  {
+    "word": "幸福",
+    "pronunciation": "xìng fú",
+    "meaning": "hạnh phúc",
+    "example": "我们过得很幸福。",
+    "example_pronunciation": "Wǒmen guò de hěn xìngfú.",
+    "example_translation": "Chúng tôi sống rất hạnh phúc."
+  },
+  {
+    "word": "性别",
+    "pronunciation": "xìng bié",
+    "meaning": "giới tính",
+    "example": "请填写你的性别。",
+    "example_pronunciation": "Qǐng tiánxiě nǐ de xìngbié.",
+    "example_translation": "Vui lòng điền giới tính của bạn."
+  },
+  {
+    "word": "性格",
+    "pronunciation": "xìng gé",
+    "meaning": "tính cách",
+    "example": "他的性格很开朗。",
+    "example_pronunciation": "Tā de xìnggé hěn kāilǎng.",
+    "example_translation": "Tính cách của anh ấy rất cởi mở."
+  },
+  {
+    "word": "修理",
+    "pronunciation": "xiū lǐ",
+    "meaning": "sửa chữa",
+    "example": "他在修理自行车。",
+    "example_pronunciation": "Tā zài xiūlǐ zìxíngchē.",
+    "example_translation": "Anh ấy đang sửa xe đạp."
+  },
+  {
+    "word": "许多",
+    "pronunciation": "xǔ duō",
+    "meaning": "rất nhiều",
+    "example": "学校有许多学生。",
+    "example_pronunciation": "Xuéxiào yǒu xǔduō xuéshēng.",
+    "example_translation": "Trường có nhiều học sinh."
+  },
+  {
+    "word": "学期",
+    "pronunciation": "xué qī",
+    "meaning": "học kì",
+    "example": "这个学期很忙。",
+    "example_pronunciation": "Zhège xuéqī hěn máng.",
+    "example_translation": "Học kỳ này rất bận."
+  },
+  {
+    "word": "压力",
+    "pronunciation": "yā lì",
+    "meaning": "áp lực",
+    "example": "我的压力很大。",
+    "example_pronunciation": "Wǒ de yālì hěn dà.",
+    "example_translation": "Tôi có nhiều áp lực."
+  },
+  {
+    "word": "呀",
+    "pronunciation": "yā",
+    "meaning": "a",
+    "example": "他呀，真是个好人。",
+    "example_pronunciation": "Tā ya, zhēn shì gè hǎo rén.",
+    "example_translation": "Anh ấy, thật sự là một người tốt."
+  },
+  {
+    "word": "牙膏",
+    "pronunciation": "yá gāo",
+    "meaning": "kem đánh răng",
+    "example": "我需要买牙膏。",
+    "example_pronunciation": "Wǒ xūyào mǎi yágāo.",
+    "example_translation": "Tôi cần mua kem đánh răng."
+  },
+  {
+    "word": "亚洲",
+    "pronunciation": "yà zhōu",
+    "meaning": "châu Á",
+    "example": "亚洲的文化很丰富。",
+    "example_pronunciation": "Yàzhōu de wénhuà hěn fēngfù.",
+    "example_translation": "Văn hóa châu Á rất phong phú."
+  },
+  {
+    "word": "严格",
+    "pronunciation": "yán gé",
+    "meaning": "nghiêm khắc",
+    "example": "他对自己很严格。",
+    "example_pronunciation": "Tā duì zìjǐ hěn yángé.",
+    "example_translation": "Anh ấy rất nghiêm khắc với bản thân."
+  },
+  {
+    "word": "严重",
+    "pronunciation": "yán zhòng",
+    "meaning": "nghiêm trọng",
+    "example": "这个问题很严重。",
+    "example_pronunciation": "Zhège wèntí hěn yánzhòng.",
+    "example_translation": "Vấn đề này rất nghiêm trọng."
+  },
+  {
+    "word": "研究",
+    "pronunciation": "yán jiū",
+    "meaning": "nghiên cứu",
+    "example": "他在研究新技术。",
+    "example_pronunciation": "Tā zài yánjiū xīn jìshù.",
+    "example_translation": "Anh ấy đang nghiên cứu công nghệ mới."
+  },
+  {
+    "word": "盐",
+    "pronunciation": "yán",
+    "meaning": "muối",
+    "example": "我们需要加点盐。",
+    "example_pronunciation": "Wǒmen xūyào jiā diǎn yán.",
+    "example_translation": "Chúng ta cần thêm một chút muối."
+  },
+  {
+    "word": "眼镜",
+    "pronunciation": "yǎn jìng",
+    "meaning": "kính mắt",
+    "example": "我需要戴眼镜。",
+    "example_pronunciation": "Wǒ xūyào dài yǎnjìng.",
+    "example_translation": "Tôi cần đeo kính."
+  },
+  {
+    "word": "演出",
+    "pronunciation": "yǎn chū",
+    "meaning": "buổi diễn",
+    "example": "他们正在准备演出。",
+    "example_pronunciation": "Tāmen zhèngzài zhǔnbèi yǎnchū.",
+    "example_translation": "Họ đang chuẩn bị biểu diễn."
+  },
+  {
+    "word": "演员",
+    "pronunciation": "yǎn yuán",
+    "meaning": "diễn viên",
+    "example": "他是一名演员。",
+    "example_pronunciation": "Tā shì yī míng yǎnyuán.",
+    "example_translation": "Anh ấy là một diễn viên."
+  },
+  {
+    "word": "阳光",
+    "pronunciation": "yáng guāng",
+    "meaning": "ánh nắng",
+    "example": "今天阳光明媚。",
+    "example_pronunciation": "Jīntiān yángguāng míngmèi.",
+    "example_translation": "Hôm nay nắng đẹp."
+  },
+  {
+    "word": "养成",
+    "pronunciation": "yǎng chéng",
+    "meaning": "nuôi dưỡng, hình thành",
+    "example": "这种习惯需要时间养成。",
+    "example_pronunciation": "Zhè zhǒng xíguàn xūyào shíjiān yǎngchéng.",
+    "example_translation": "Thói quen này cần thời gian để hình thành."
+  },
+  {
+    "word": "样子",
+    "pronunciation": "yàng zi",
+    "meaning": "kiểu dáng, dáng vẻ",
+    "example": "这件衣服的样子很好看。",
+    "example_pronunciation": "Zhè jiàn yīfú de yàngzi hěn hǎokàn.",
+    "example_translation": "kiểu dáng của quần áo này rất đẹp."
+  },
+  {
+    "word": "邀请",
+    "pronunciation": "yāo qǐng",
+    "meaning": "mời",
+    "example": "我们邀请了很多朋友。",
+    "example_pronunciation": "Wǒmen yāoqǐng le hěn duō péngyǒu.",
+    "example_translation": "Chúng tôi mời rất nhiều bạn bè."
+  },
+  {
+    "word": "要是",
+    "pronunciation": "yào shì",
+    "meaning": "nếu",
+    "example": "要是你有时间，我们一起去吧。",
+    "example_pronunciation": "Yàoshì nǐ yǒu shíjiān, wǒmen yīqǐ qù ba.",
+    "example_translation": "Nếu bạn có thời gian, chúng ta cùng đi nhé."
+  },
+  {
+    "word": "钥匙",
+    "pronunciation": "yào shi",
+    "meaning": "chìa khóa",
+    "example": "我找不到我的钥匙了。",
+    "example_pronunciation": "Wǒ zhǎo bù dào wǒ de yàoshi le.",
+    "example_translation": "Tôi không tìm thấy chìa khóa của mình."
+  },
+  {
+    "word": "也许",
+    "pronunciation": "yě xǔ",
+    "meaning": "có lẽ",
+    "example": "也许明天会下雨。",
+    "example_pronunciation": "Yěxǔ míngtiān huì xià yǔ.",
+    "example_translation": "Có lẽ ngày mai sẽ mưa."
+  },
+  {
+    "word": "叶子",
+    "pronunciation": "yè zi",
+    "meaning": "chiếc lá",
+    "example": "树上的叶子变黄了。",
+    "example_pronunciation": "Shù shàng de yèzi biàn huáng le.",
+    "example_translation": "Lá trên cây đã chuyển sang màu vàng."
+  },
+  {
+    "word": "页",
+    "pronunciation": "yè",
+    "meaning": "trang mạng",
+    "example": "请翻到下一页。",
+    "example_pronunciation": "Qǐng fān dào xià yī yè.",
+    "example_translation": "Vui lòng lật sang trang tiếp theo."
+  },
+  {
+    "word": "一切",
+    "pronunciation": "yī qiè",
+    "meaning": "tất cả",
+    "example": "一切都会好的。",
+    "example_pronunciation": "Yīqiè dōu huì hǎo de.",
+    "example_translation": "Mọi thứ sẽ ổn thôi."
+  },
+  {
+    "word": "以",
+    "pronunciation": "yǐ",
+    "meaning": "lấy, với",
+    "example": "以他的能力，他能做到。",
+    "example_pronunciation": "Yǐ tā de nénglì, tā néng zuò dào.",
+    "example_translation": "Với khả năng của anh ấy, anh ấy có thể làm được."
+  },
+  {
+    "word": "以为",
+    "pronunciation": "yǐ wéi",
+    "meaning": "tưởng rằng",
+    "example": "我以为他已经走了。",
+    "example_pronunciation": "Wǒ yǐwéi tā yǐjīng zǒu le.",
+    "example_translation": "Tôi tưởng rằng anh ấy đã đi rồi."
+  },
+  {
+    "word": "艺术",
+    "pronunciation": "yì shù",
+    "meaning": "nghệ thuật",
+    "example": "他对艺术很有兴趣。",
+    "example_pronunciation": "Tā duì yìshù hěn yǒu xìngqù.",
+    "example_translation": "Anh ấy rất hứng thú với nghệ thuật."
+  },
+  {
+    "word": "意见",
+    "pronunciation": "yì jiàn",
+    "meaning": "ý kiến",
+    "example": "我有一些不同的意见。",
+    "example_pronunciation": "Wǒ yǒu yīxiē bùtóng de yìjiàn.",
+    "example_translation": "Tôi có một vài ý kiến khác nhau."
+  },
+  {
+    "word": "因此",
+    "pronunciation": "yīn cǐ",
+    "meaning": "cho nên",
+    "example": "因此，我们需要改变计划。",
+    "example_pronunciation": "Yīncǐ, wǒmen xūyào gǎibiàn jìhuà.",
+    "example_translation": "Vì vậy, chúng ta cần thay đổi kế hoạch."
+  },
+  {
+    "word": "引起",
+    "pronunciation": "yǐn qǐ",
+    "meaning": "dẫn đến, gây ra",
+    "example": "他的演讲引起了大家的兴趣。",
+    "example_pronunciation": "Tā de yǎnjiǎng yǐnqǐ le dàjiā de xìngqù.",
+    "example_translation": "Bài diễn thuyết của anh ấy đã thu hút sự quan tâm của mọi người."
+  },
+  {
+    "word": "印象",
+    "pronunciation": "yìn xiàng",
+    "meaning": "ấn tượng",
+    "example": "我对他的印象很好。",
+    "example_pronunciation": "Wǒ duì tā de yìnxiàng hěn hǎo.",
+    "example_translation": "Ấn tượng của tôi về anh ấy rất tốt."
+  },
+  {
+    "word": "赢",
+    "pronunciation": "yíng",
+    "meaning": "thắng",
+    "example": "我们赢了比赛。",
+    "example_pronunciation": "Wǒmen yíng le bǐsài.",
+    "example_translation": "Chúng tôi đã thắng trận đấu."
+  },
+  {
+    "word": "应聘",
+    "pronunciation": "yìng pìn",
+    "meaning": "ứng tuyển",
+    "example": "我去公司应聘了。",
+    "example_pronunciation": "Wǒ qù gōngsī yìngpìn le.",
+    "example_translation": "Tôi đã đến công ty để ứng tuyển."
+  },
+  {
+    "word": "永远",
+    "pronunciation": "yǒng yuǎn",
+    "meaning": "mãi mãi",
+    "example": "我们的友谊永远不会改变。",
+    "example_pronunciation": "Wǒmen de yǒuyì yǒngyuǎn bù huì gǎibiàn.",
+    "example_translation": "Tình bạn của chúng ta sẽ không bao giờ thay đổi."
+  },
+  {
+    "word": "勇敢",
+    "pronunciation": "yǒng gǎn",
+    "meaning": "dũng cảm",
+    "example": "他很勇敢地面对困难。",
+    "example_pronunciation": "Tā hěn yǒnggǎn de miànduì kùnnán.",
+    "example_translation": "Anh ấy rất dũng cảm đối mặt với khó khăn."
+  },
+  {
+    "word": "优点",
+    "pronunciation": "yōu diǎn",
+    "meaning": "ưu điểm",
+    "example": "他的优点是很认真。",
+    "example_pronunciation": "Tā de yōudiǎn shì hěn rènzhēn.",
+    "example_translation": "Ưu điểm của anh ấy là rất chăm chỉ."
+  },
+  {
+    "word": "优秀",
+    "pronunciation": "yōu xiù",
+    "meaning": "ưu tú",
+    "example": "她是一个优秀的学生。",
+    "example_pronunciation": "Tā shì yīgè yōuxiù de xuéshēng.",
+    "example_translation": "Cô ấy là một học sinh xuất sắc."
+  },
+  {
+    "word": "幽默",
+    "pronunciation": "yōu mò",
+    "meaning": "hài hước",
+    "example": "他讲笑话很幽默。",
+    "example_pronunciation": "Tā jiǎng xiàohuà hěn yōumò.",
+    "example_translation": "Anh ấy kể chuyện cười rất hài hước."
+  },
+  {
+    "word": "尤其",
+    "pronunciation": "yóu qí",
+    "meaning": "đặc biệt là",
+    "example": "我尤其喜欢吃水果。",
+    "example_pronunciation": "Wǒ yóuqí xǐhuān chī shuǐguǒ.",
+    "example_translation": "Tôi đặc biệt thích ăn trái cây."
+  },
+  {
+    "word": "由",
+    "pronunciation": "yóu",
+    "meaning": "do",
+    "example": "由他负责这项工作。",
+    "example_pronunciation": "Yóu tā fùzé zhè xiàng gōngzuò.",
+    "example_translation": "Công việc này do anh ấy phụ trách."
+  },
+  {
+    "word": "由于",
+    "pronunciation": "yóu yú",
+    "meaning": "do",
+    "example": "由于下雨，我们取消了计划。",
+    "example_pronunciation": "Yóuyú xiàyǔ, wǒmen qǔxiāo le jìhuà.",
+    "example_translation": "Do trời mưa, chúng tôi đã hủy bỏ kế hoạch."
+  },
+  {
+    "word": "邮局",
+    "pronunciation": "yóu jú",
+    "meaning": "bưu điện",
+    "example": "我去邮局寄信。",
+    "example_pronunciation": "Wǒ qù yóujú jì xìn.",
+    "example_translation": "Tôi đi bưu điện gửi thư."
+  },
+  {
+    "word": "友好",
+    "pronunciation": "yǒu hǎo",
+    "meaning": "hữu hảo",
+    "example": "他们对我们很友好。",
+    "example_pronunciation": "Tāmen duì wǒmen hěn yǒuhǎo.",
+    "example_translation": "Họ rất thân thiện với chúng tôi."
+  },
+  {
+    "word": "友谊",
+    "pronunciation": "yǒu yì",
+    "meaning": "hữu nghị",
+    "example": "友谊是非常珍贵的。",
+    "example_pronunciation": "Yǒuyì shì fēicháng zhēnguì de.",
+    "example_translation": "Tình bạn rất quý giá."
+  },
+  {
+    "word": "有趣",
+    "pronunciation": "yǒu qù",
+    "meaning": "hứng thú",
+    "example": "这个故事很有趣。",
+    "example_pronunciation": "Zhège gùshì hěn yǒuqù.",
+    "example_translation": "Câu chuyện này rất thú vị."
+  },
+  {
+    "word": "于是",
+    "pronunciation": "yú shì",
+    "meaning": "thế là",
+    "example": "天黑了，于是我们回家了。",
+    "example_pronunciation": "Tiān hēi le, yúshì wǒmen huí jiā le.",
+    "example_translation": "Trời tối rồi, nên chúng tôi về nhà."
+  },
+  {
+    "word": "愉快",
+    "pronunciation": "yú kuài",
+    "meaning": "vui vẻ",
+    "example": "希望你度过一个愉快的假期。",
+    "example_pronunciation": "Xīwàng nǐ dùguò yīgè yúkuài de jiàqī.",
+    "example_translation": "Hy vọng bạn có một kỳ nghỉ vui vẻ."
+  },
+  {
+    "word": "与",
+    "pronunciation": "yǔ",
+    "meaning": "và",
+    "example": "他与我一起去旅游。",
+    "example_pronunciation": "Tā yǔ wǒ yīqǐ qù lǚyóu.",
+    "example_translation": "Anh ấy đi du lịch cùng tôi."
+  },
+  {
+    "word": "羽毛球",
+    "pronunciation": "yǔ máo qiú",
+    "meaning": "cầu lông",
+    "example": "我喜欢打羽毛球。",
+    "example_pronunciation": "Wǒ xǐhuān dǎ yǔmáoqiú.",
+    "example_translation": "Tôi thích chơi cầu lông."
+  },
+  {
+    "word": "语法",
+    "pronunciation": "yǔ fǎ",
+    "meaning": "ngữ pháp",
+    "example": "他的语法很好。",
+    "example_pronunciation": "Tā de yǔfǎ hěn hǎo.",
+    "example_translation": "Ngữ pháp của anh ấy rất tốt."
+  },
+  {
+    "word": "语言",
+    "pronunciation": "yǔ yán",
+    "meaning": "ngôn ngữ",
+    "example": "他会说多种语言。",
+    "example_pronunciation": "Tā huì shuō duō zhǒng yǔyán.",
+    "example_translation": "Anh ấy có thể nói nhiều ngôn ngữ."
+  },
+  {
+    "word": "预习",
+    "pronunciation": "yù xí",
+    "meaning": "chuẩn bị trước",
+    "example": "请预习明天的课文。",
+    "example_pronunciation": "Qǐng yùxí míngtiān de kèwén.",
+    "example_translation": "Vui lòng chuẩn bị trước bài học ngày mai."
+  },
+  {
+    "word": "原来",
+    "pronunciation": "yuán lái",
+    "meaning": "hóa ra, vốn, cũ",
+    "example": "我原来住在北京。",
+    "example_pronunciation": "Wǒ yuánlái zhù zài Běijīng.",
+    "example_translation": "Tôi vốn sống ở Bắc Kinh."
+  },
+  {
+    "word": "原谅",
+    "pronunciation": "yuán liàng",
+    "meaning": "tha thứ",
+    "example": "请原谅我的错误。",
+    "example_pronunciation": "Qǐng yuánliàng wǒ de cuòwù.",
+    "example_translation": "Xin hãy tha thứ cho lỗi lầm của tôi."
+  },
+  {
+    "word": "原因",
+    "pronunciation": "yuán yīn",
+    "meaning": "nguyên nhân",
+    "example": "他解释了事情的原因。",
+    "example_pronunciation": "Tā jiěshì le shìqíng de yuányīn.",
+    "example_translation": "Anh ấy đã giải thích nguyên nhân của sự việc."
+  },
+  {
+    "word": "约会",
+    "pronunciation": "yuē huì",
+    "meaning": "hẹn, cuộc hẹn",
+    "example": "明天的约会你来吗？",
+    "example_pronunciation": "Míngtiān de yuēhuì nǐ lái ma?",
+    "example_translation": "Cuộc hẹn ngày mai bạn đến không?"
+  },
+  {
+    "word": "阅读",
+    "pronunciation": "yuè dú",
+    "meaning": "đọc hiểu",
+    "example": "我每天阅读书籍。",
+    "example_pronunciation": "Wǒ měitiān yuèdú shūjí.",
+    "example_translation": "Tôi đọc sách hàng ngày."
+  },
+  {
+    "word": "云",
+    "pronunciation": "yún",
+    "meaning": "mây",
+    "example": "天空中有很多云。",
+    "example_pronunciation": "Tiānkōng zhōng yǒu hěn duō yún.",
+    "example_translation": "Trên bầu trời có rất nhiều mây."
+  },
+  {
+    "word": "允许",
+    "pronunciation": "yǔn xǔ",
+    "meaning": "cho phép",
+    "example": "这里不允许吸烟。",
+    "example_pronunciation": "Zhèlǐ bù yǔnxǔ xīyān.",
+    "example_translation": "Ở đây không được phép hút thuốc."
+  },
+  {
+    "word": "杂志",
+    "pronunciation": "zá zhì",
+    "meaning": "tạp chí",
+    "example": "他正在看杂志。",
+    "example_pronunciation": "Tā zhèngzài kàn zázhì.",
+    "example_translation": "Anh ấy đang đọc tạp chí."
+  },
+  {
+    "word": "咱们",
+    "pronunciation": "zán men",
+    "meaning": "chúng ta",
+    "example": "咱们一起去吧。",
+    "example_pronunciation": "Zánmen yīqǐ qù ba.",
+    "example_translation": "Chúng ta cùng đi nhé."
+  },
+  {
+    "word": "暂时",
+    "pronunciation": "zàn shí",
+    "meaning": "tạm thời",
+    "example": "我暂时住在朋友家。",
+    "example_pronunciation": "Wǒ zànshí zhù zài péngyǒu jiā.",
+    "example_translation": "Tôi tạm thời sống ở nhà bạn."
+  },
+  {
+    "word": "脏",
+    "pronunciation": "zāng",
+    "meaning": "bẩn",
+    "example": "这件衣服很脏。",
+    "example_pronunciation": "Zhè jiàn yīfú hěn zāng.",
+    "example_translation": "Bộ quần áo này rất bẩn."
+  },
+  {
+    "word": "责任",
+    "pronunciation": "zé rèn",
+    "meaning": "trách nhiệm",
+    "example": "你要负责任。",
+    "example_pronunciation": "Nǐ yào fù zérèn.",
+    "example_translation": "Bạn phải chịu trách nhiệm."
+  },
+  {
+    "word": "增加",
+    "pronunciation": "zēng jiā",
+    "meaning": "tăng thêm",
+    "example": "我们需要增加预算。",
+    "example_pronunciation": "Wǒmen xūyào zēngjiā yùsuàn.",
+    "example_translation": "Chúng ta cần tăng ngân sách."
+  },
+  {
+    "word": "占线",
+    "pronunciation": "zhàn xiàn",
+    "meaning": "máy bận",
+    "example": "电话一直占线。",
+    "example_pronunciation": "Diànhuà yīzhí zhànxiàn.",
+    "example_translation": "Điện thoại luôn bận."
+  },
+  {
+    "word": "招聘",
+    "pronunciation": "zhāo pìn",
+    "meaning": "tuyển dụng",
+    "example": "公司正在招聘员工。",
+    "example_pronunciation": "Gōngsī zhèngzài zhāopìn yuángōng.",
+    "example_translation": "Công ty đang tuyển dụng nhân viên."
+  },
+  {
+    "word": "照",
+    "pronunciation": "zhào",
+    "meaning": "chiếu, chụp",
+    "example": "请照一下这张照片。",
+    "example_pronunciation": "Qǐng zhào yīxià zhè zhāng zhàopiàn.",
+    "example_translation": "Xin hãy chụp bức ảnh này."
+  },
+  {
+    "word": "真正",
+    "pronunciation": "zhēn zhèng",
+    "meaning": "thật",
+    "example": "他是一个真正的朋友。",
+    "example_pronunciation": "Tā shì yīgè zhēnzhèng de péngyǒu.",
+    "example_translation": "Anh ấy là một người bạn thực sự."
+  },
+  {
+    "word": "整理",
+    "pronunciation": "zhěng lǐ",
+    "meaning": "chỉnh sửa",
+    "example": "我需要整理房间。",
+    "example_pronunciation": "Wǒ xūyào zhěnglǐ fángjiān.",
+    "example_translation": "Tôi cần dọn dẹp phòng."
+  },
+  {
+    "word": "正常",
+    "pronunciation": "zhèng cháng",
+    "meaning": "bình thường",
+    "example": "一切都很正常。",
+    "example_pronunciation": "Yīqiè dōu hěn zhèngcháng.",
+    "example_translation": "Mọi thứ đều rất bình thường."
+  },
+  {
+    "word": "正好",
+    "pronunciation": "zhèng hǎo",
+    "meaning": "vừa hay",
+    "example": "你来得正好。",
+    "example_pronunciation": "Nǐ lái de zhènghǎo.",
+    "example_translation": "Bạn đến vừa đúng lúc."
+  },
+  {
+    "word": "正确",
+    "pronunciation": "zhèng què",
+    "meaning": "chính xác",
+    "example": "你的答案是正确的。",
+    "example_pronunciation": "Nǐ de dá'àn shì zhèngquè de.",
+    "example_translation": "Câu trả lời của bạn là chính xác."
+  },
+  {
+    "word": "正式",
+    "pronunciation": "zhèng shì",
+    "meaning": "chính thức",
+    "example": "这是一场正式的会议。",
+    "example_pronunciation": "Zhè shì yī chǎng zhèngshì de huìyì.",
+    "example_translation": "Đây là một cuộc họp chính thức."
+  },
+  {
+    "word": "证明",
+    "pronunciation": "zhèng míng",
+    "meaning": "chứng minh",
+    "example": "请你证明一下身份。",
+    "example_pronunciation": "Qǐng nǐ zhèngmíng yīxià shēnfèn.",
+    "example_translation": "Vui lòng xác minh danh tính của bạn."
+  },
+  {
+    "word": "之",
+    "pronunciation": "zhī",
+    "meaning": "của",
+    "example": "这本书之内容很丰富。",
+    "example_pronunciation": "Zhè běn shū zhī nèiróng hěn fēngfù.",
+    "example_translation": "Nội dung của cuốn sách này rất phong phú."
+  },
+  {
+    "word": "支持",
+    "pronunciation": "zhī chí",
+    "meaning": "ủng hộ",
+    "example": "我们支持你的决定。",
+    "example_pronunciation": "Wǒmen zhīchí nǐ de juédìng.",
+    "example_translation": "Chúng tôi ủng hộ quyết định của bạn."
+  },
+  {
+    "word": "知识",
+    "pronunciation": "zhī shí",
+    "meaning": "tri thức, kiến thức",
+    "example": "知识是无价之宝。",
+    "example_pronunciation": "Zhīshì shì wújià zhī bǎo.",
+    "example_translation": "Kiến thức là vô giá."
+  },
+  {
+    "word": "直接",
+    "pronunciation": "zhí jiē",
+    "meaning": "trực tiếp",
+    "example": "请直接告诉我结果。",
+    "example_pronunciation": "Qǐng zhíjiē gàosù wǒ jiéguǒ.",
+    "example_translation": "Vui lòng nói trực tiếp với tôi kết quả."
+  },
+  {
+    "word": "值得",
+    "pronunciation": "zhí dé",
+    "meaning": "đáng",
+    "example": "这部电影很值得看。",
+    "example_pronunciation": "Zhè bù diànyǐng hěn zhídé kàn.",
+    "example_translation": "Bộ phim này rất đáng xem."
+  },
+  {
+    "word": "职业",
+    "pronunciation": "zhí yè",
+    "meaning": "nghề nghiệp",
+    "example": "他的职业是医生。",
+    "example_pronunciation": "Tā de zhíyè shì yīshēng.",
+    "example_translation": "Nghề nghiệp của anh ấy là bác sĩ."
+  },
+  {
+    "word": "植物",
+    "pronunciation": "zhí wù",
+    "meaning": "thực vật",
+    "example": "我喜欢养植物。",
+    "example_pronunciation": "Wǒ xǐhuān yǎng zhíwù.",
+    "example_translation": "Tôi thích trồng cây."
+  },
+  {
+    "word": "只好",
+    "pronunciation": "zhǐ hǎo",
+    "meaning": "đành",
+    "example": "下雨了，我们只好回家。",
+    "example_pronunciation": "Xiàyǔ le, wǒmen zhǐhǎo huí jiā.",
+    "example_translation": "Trời mưa rồi, chúng ta đành phải về nhà."
+  },
+  {
+    "word": "只要",
+    "pronunciation": "zhǐ yào",
+    "meaning": "chỉ cần",
+    "example": "只要努力，就会成功。",
+    "example_pronunciation": "Zhǐyào nǔlì, jiù huì chénggōng.",
+    "example_translation": "Chỉ cần cố gắng, sẽ thành công."
+  },
+  {
+    "word": "指",
+    "pronunciation": "zhǐ",
+    "meaning": "chỉ",
+    "example": "他指了指那棵树。",
+    "example_pronunciation": "Tā zhǐle zhǐ nà kē shù.",
+    "example_translation": "Anh ấy chỉ vào cái cây kia."
+  },
+  {
+    "word": "至少",
+    "pronunciation": "zhì shǎo",
+    "meaning": "chí ít",
+    "example": "我至少要休息一天。",
+    "example_pronunciation": "Wǒ zhìshǎo yào xiūxí yī tiān.",
+    "example_translation": "Tôi ít nhất cần nghỉ ngơi một ngày."
+  },
+  {
+    "word": "质量",
+    "pronunciation": "zhì liàng",
+    "meaning": "chất lượng",
+    "example": "这家店的产品质量很好。",
+    "example_pronunciation": "Zhè jiā diàn de chǎnpǐn zhìliàng hěn hǎo.",
+    "example_translation": "Sản phẩm của cửa hàng này có chất lượng rất tốt."
+  },
+  {
+    "word": "重",
+    "pronunciation": "zhòng",
+    "meaning": "nặng",
+    "example": "这箱子很重。",
+    "example_pronunciation": "Zhè xiāngzi hěn zhòng.",
+    "example_translation": "Cái vali này rất nặng."
+  },
+  {
+    "word": "重点",
+    "pronunciation": "zhòng diǎn",
+    "meaning": "trọng điểm",
+    "example": "这个问题是重点。",
+    "example_pronunciation": "Zhège wèntí shì zhòngdiǎn.",
+    "example_translation": "Vấn đề này là trọng điểm."
+  },
+  {
+    "word": "重视",
+    "pronunciation": "zhòng shì",
+    "meaning": "coi trọng",
+    "example": "他很重视健康。",
+    "example_pronunciation": "Tā hěn zhòngshì jiànkāng.",
+    "example_translation": "Anh ấy rất coi trọng sức khỏe."
+  },
+  {
+    "word": "周围",
+    "pronunciation": "zhōu wéi",
+    "meaning": "xung quanh",
+    "example": "我住在学校的周围。",
+    "example_pronunciation": "Wǒ zhù zài xuéxiào de zhōuwéi.",
+    "example_translation": "Tôi sống xung quanh trường học."
+  },
+  {
+    "word": "主意",
+    "pronunciation": "zhǔ yì",
+    "meaning": "chủ ý",
+    "example": "这是一个好主意。",
+    "example_pronunciation": "Zhè shì yīgè hǎo zhǔyì.",
+    "example_translation": "Đây là một ý tưởng hay."
+  },
+  {
+    "word": "祝贺",
+    "pronunciation": "zhù hè",
+    "meaning": "chúc mừng",
+    "example": "祝贺你通过考试。",
+    "example_pronunciation": "Zhùhè nǐ tōngguò kǎoshì.",
+    "example_translation": "Chúc mừng bạn đã vượt qua kỳ thi."
+  },
+  {
+    "word": "著名",
+    "pronunciation": "zhù míng",
+    "meaning": "nổi tiếng",
+    "example": "他是一位著名的作家。",
+    "example_pronunciation": "Tā shì yī wèi zhùmíng de zuòjiā.",
+    "example_translation": "Anh ấy là một nhà văn nổi tiếng."
+  },
+  {
+    "word": "专门",
+    "pronunciation": "zhuān mén",
+    "meaning": "chuyên môn",
+    "example": "他专门研究历史。",
+    "example_pronunciation": "Tā zhuānmén yánjiū lìshǐ.",
+    "example_translation": "Anh ấy chuyên nghiên cứu lịch sử."
+  },
+  {
+    "word": "专业",
+    "pronunciation": "zhuān yè",
+    "meaning": "chuyên ngành",
+    "example": "他的专业是数学。",
+    "example_pronunciation": "Tā de zhuānyè shì shùxué.",
+    "example_translation": "Chuyên ngành của anh ấy là toán học."
+  },
+  {
+    "word": "转",
+    "pronunciation": "zhuǎn",
+    "meaning": "chuyển",
+    "example": "请把椅子转过来。",
+    "example_pronunciation": "Qǐng bǎ yǐzi zhuǎn guòlái.",
+    "example_translation": "Vui lòng xoay ghế lại."
+  },
+  {
+    "word": "赚",
+    "pronunciation": "zhuàn",
+    "meaning": "kiếm",
+    "example": "他在公司赚了很多钱。",
+    "example_pronunciation": "Tā zài gōngsī zhuàn le hěn duō qián.",
+    "example_translation": "Anh ấy kiếm được rất nhiều tiền ở công ty."
+  },
+  {
+    "word": "准确",
+    "pronunciation": "zhǔn què",
+    "meaning": "chính xác",
+    "example": "他的答案非常准确。",
+    "example_pronunciation": "Tā de dá'àn fēicháng zhǔnquè.",
+    "example_translation": "Câu trả lời của anh ấy rất chính xác."
+  },
+  {
+    "word": "准时",
+    "pronunciation": "zhǔn shí",
+    "meaning": "đúng giờ",
+    "example": "请准时到达。",
+    "example_pronunciation": "Qǐng zhǔnshí dàodá.",
+    "example_translation": "Vui lòng đến đúng giờ."
+  },
+  {
+    "word": "仔细",
+    "pronunciation": "zǐ xì",
+    "meaning": "cẩn thận",
+    "example": "他做事很仔细。",
+    "example_pronunciation": "Tā zuòshì hěn zǐxì.",
+    "example_translation": "Anh ấy làm việc rất cẩn thận."
+  },
+  {
+    "word": "自然",
+    "pronunciation": "zì rán",
+    "meaning": "tự nhiên",
+    "example": "自然景色很美。",
+    "example_pronunciation": "Zìrán jǐngsè hěn měi.",
+    "example_translation": "Cảnh thiên nhiên rất đẹp."
+  },
+  {
+    "word": "自信",
+    "pronunciation": "zì xìn",
+    "meaning": "tự tin",
+    "example": "我对自己很有自信。",
+    "example_pronunciation": "Wǒ duì zìjǐ hěn yǒu zìxìn.",
+    "example_translation": "Tôi rất tự tin vào bản thân."
+  },
+  {
+    "word": "总结",
+    "pronunciation": "zǒng jié",
+    "meaning": "tổng kết",
+    "example": "他总结了会议的要点。",
+    "example_pronunciation": "Tā zǒngjié le huìyì de yàodiǎn.",
+    "example_translation": "Anh ấy đã tổng kết các điểm chính của cuộc họp."
+  },
+  {
+    "word": "租",
+    "pronunciation": "zū",
+    "meaning": "thuê",
+    "example": "我租了一辆车。",
+    "example_pronunciation": "Wǒ zū le yī liàng chē.",
+    "example_translation": "Tôi đã thuê một chiếc xe."
+  },
+  {
+    "word": "最好",
+    "pronunciation": "zuì hǎo",
+    "meaning": "tốt nhất",
+    "example": "这是最好的选择。",
+    "example_pronunciation": "Zhè shì zuì hǎo de xuǎnzé.",
+    "example_translation": "Đây là lựa chọn tốt nhất."
+  },
+  {
+    "word": "尊重",
+    "pronunciation": "zūn zhòng",
+    "meaning": "tôn trọng",
+    "example": "我们应该尊重他人的意见。",
+    "example_pronunciation": "Wǒmen yīnggāi zūnzhòng tārén de yìjiàn.",
+    "example_translation": "Chúng ta nên tôn trọng ý kiến của người khác."
+  },
+  {
+    "word": "左右",
+    "pronunciation": "zuǒ yòu",
+    "meaning": "khoảng",
+    "example": "他站在我左右。",
+    "example_pronunciation": "Tā zhàn zài wǒ zuǒyòu.",
+    "example_translation": "Anh ấy đứng bên cạnh tôi."
+  },
+  {
+    "word": "作家",
+    "pronunciation": "zuò jiā",
+    "meaning": "tác gia",
+    "example": "他是一位著名的作家。",
+    "example_pronunciation": "Tā shì yī wèi zhùmíng de zuòjiā.",
+    "example_translation": "Anh ấy là một nhà văn nổi tiếng."
+  },
+  {
+    "word": "作用",
+    "pronunciation": "zuò yòng",
+    "meaning": "tác dụng",
+    "example": "这个药对治疗感冒很有作用。",
+    "example_pronunciation": "Zhège yào duì zhìliáo gǎnmào hěn yǒu zuòyòng.",
+    "example_translation": "Thuốc này rất hiệu quả trong việc điều trị cảm lạnh."
+  },
+  {
+    "word": "作者",
+    "pronunciation": "zuò zhě",
+    "meaning": "tác giả",
+    "example": "这本书的作者是谁？",
+    "example_pronunciation": "Zhè běn shū de zuòzhě shì shéi?",
+    "example_translation": "Tác giả của cuốn sách này là ai?"
+  },
+  {
+    "word": "座",
+    "pronunciation": "zuò",
+    "meaning": "tòa",
+    "example": "这座城市很大。",
+    "example_pronunciation": "Zhè zuò chéngshì hěn dà.",
+    "example_translation": "Thành phố này rất lớn."
+  },
+  {
+    "word": "座位",
+    "pronunciation": "zuò wèi",
+    "meaning": "chỗ ngồi",
+    "example": "请找你的座位。",
+    "example_pronunciation": "Qǐng zhǎo nǐ de zuòwèi.",
+    "example_translation": "Vui lòng tìm chỗ ngồi của bạn."
+  }
+]
